@@ -1,7 +1,7 @@
 19F+2H @ 16 MeV
 NAMELIST
 &FRESCO hcm=0.05 rmatch=20.0
-    jtmin=0.0 jtmax=40 absend= 0.01 thmin=0.00 thmax=180.00 thinc=1.00
+    jtmin=0.0 jtmax=40 absend=0.01 thmin=0.00 thmax=180.00 thinc=1.00
     iter=1 ips=0.0 iblock=0 chans=1 smats=2  xstabl=1
     elab(1)=16.0 /
 
