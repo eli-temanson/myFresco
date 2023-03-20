@@ -1,0 +1,23 @@
+H2+F19 -> H2+F19 @ 16.0 MeV
+NAMELIST
+&FRESCO hcm=0.1 rmatch=18.0
+        jtmin=0.0 jtmax=30 absend= 0.01 thmin=0 thmax=-180 thinc=1
+        it0=0 iter=0 ips=0.0 iblock=1 chans=1 smats=2  xstabl=1
+        elab(1)=16.0 /
+
+&PARTITION namep='H2' massp=2.0141 zp=1
+        namet='F19' masst=19 zt=9 qval=0.0 nex=1 /
+&STATES jp=0 bandp=+1 ep=0.0000 kkp=0 cpot=1 jt=0.5 bandt=+1 et=0.00 kkt=0 /
+
+&partition /
+&POT kp=1 type=0 ap=2 at=19 rc=1.303 /
+&POT kp=1 type=1 
+        p1=83.391 p2=1.149 p3=0.753 p4=5.103 p5=1.342 p6=0.588 /
+&POT kp=1 type=2
+        p4=4.542 p5=1.391 p6=0.696 /
+&POT kp=1 type=3
+        p1=3.557 p2=0.972 p3=1.011 /
+&pot /
+
+&overlap /
+&coupling /
