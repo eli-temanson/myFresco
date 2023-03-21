@@ -3,19 +3,19 @@
 
  H2+F19 -> H2+F19 @ 16.0 MeV                                                     
 
-   0.100  18.000   0.500   0.000   0.000   0.000   0.000   0.000   0.000   0.000
+   0.050  18.000   0.500   0.000   0.000   0.000   0.000   0.000   0.000   0.000
 
- Centre-of-mass Range is    182 * 0.1000 fm., Maximum at  18.00 fm., Interpolating NL forms every  0.50 fm.
- Non - locality width is      4 * 0.1000 fm., Maximum of   0.30 fm., Centred at  0.00 fm.
+ Centre-of-mass Range is    362 * 0.0500 fm., Maximum at  18.00 fm., Interpolating NL forms every  0.50 fm.
+ Non - locality width is      4 * 0.0500 fm., Maximum of   0.15 fm., Centred at  0.00 fm.
  2-Nucleon Separation of      0 * 0.5000 fm., Maximum of   0.00 fm., Minimum at  0.00 fm.
  Maximum single particle bins of 18.0000 fm.
-               M,Mint =          181         181
+               M,Mint =          361         361
 
 
  Range of total J is     0.0 <= J <=    30.0 (at least     0.0) and Absorbtion =>     0.0100 mb.
  Dry Run = F, CC set limits =  0  0, Relativistic kinematics =  , Both/Far/Near Analyses =  1                     
 
- Cross Sections (and up to T0 for 0=projectile) for Theta from   0.0 to-180.0 in steps of  1.0 degrees, DGAM=0,  Coordinates = 0 (Mads)
+ Cross Sections (and up to T0 for 0=projectile) for Theta from   1.0 to-180.0 in steps of  1.0 degrees, DGAM=0,  Coordinates = 0 (Mads)
 
  Lower Radial Cutoff = maximum of -1.60*L*h &       0.0 fm.,  Lower Cutoff for Couplings =   0.0  fm.
 

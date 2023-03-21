@@ -17,6 +17,6 @@ def run_sfresco():
 
 
 if __name__ == "__main__":
-	# run_fresco()
-	run_sfresco()
+	run_fresco()
+	# run_sfresco()
 	os.system("python ../scripts/parse_dfcs.py")
