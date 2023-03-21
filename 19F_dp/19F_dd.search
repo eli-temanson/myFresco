@@ -1,7 +1,13 @@
-'19F_dd.fin' '19F_dd.fro' 2 1
-&variable kind=1 name='Wsr'  step=0.01 kp=1 pline=3 col=5 valmin=0.9 valmax=1.2 /
-&variable kind=1 name='Wsa'  step=0.01 kp=1 pline=3 col=6 valmin=0.4 valmax=0.9 /
+'19F_dd.fin' '19F_dd.fro' 7 1
+&variable kind=1 name='V'  step=0.1 kp=1 pline=2 col=1 valmin=80 valmax=120 /
+&variable kind=1 name='Vr' step=0.01 kp=1 pline=2 col=2 valmin=0.9 valmax=1.5 /
+&variable kind=1 name='Va' step=0.01 kp=1 pline=2 col=3 valmin=0.4 valmax=1.0 /
 
+&variable kind=1 name='Wv' step=0.01 kp=1 pline=3 col=4 valmin=0.5 valmax=15.0 /
+&variable kind=1 name='Wr' step=0.01 kp=1 pline=3 col=5 valmin=0.9 valmax=1.5 /
+&variable kind=1 name='Wa' step=0.01 kp=1 pline=3 col=6 valmin=0.4 valmax=1.0 /
+
+&variable kind=1 name='Ws'  step=0.01 kp=1 pline=3 col=4 valmin=0.5 valmax=15.0 /
 
 &data type=0 iscale=2 idir=0 ia=1 lab=F abserr=T energy=16.0 /
 25.32	42.14	3.73
@@ -11,10 +17,17 @@
 45.45	19.74	1.97
 
 
-
 !
-&variable kind=1 name='Vso' step=1 kp=1 pline=4 col=1 valmin=0.5 valmax=15.0 /
+&variable kind=1 name='V'  step=0.1 kp=1 pline=2 col=1 valmin=80 valmax=120 /
+&variable kind=1 name='Vr' step=0.01 kp=1 pline=2 col=2 valmin=0.9 valmax=1.5 /
+&variable kind=1 name='Va' step=0.01 kp=1 pline=2 col=3 valmin=0.4 valmax=1.0 /
 
-&variable kind=1 name='V'  step=0.01 kp=1 pline=2 col=1 valmin=80 valmax=95 /
-&variable kind=1 name='Wv' step=0.1 kp=1 pline=2 col=4 valmin=0.5 valmax=15.0 /
-&variable kind=1 name='Ws' step=0.1 kp=1 pline=3 col=4 valmin=0.5 valmax=15.0 /
+&variable kind=1 name='Wv' step=0.01 kp=1 pline=3 col=4 valmin=0.5 valmax=15.0 /
+&variable kind=1 name='Wr' step=0.01 kp=1 pline=3 col=5 valmin=0.9 valmax=1.5 /
+&variable kind=1 name='Wa' step=0.01 kp=1 pline=3 col=6 valmin=0.4 valmax=1.0 /
+
+&variable kind=1 name='Ws'  step=0.01 kp=1 pline=3 col=4 valmin=0.5 valmax=15.0 /
+&variable kind=1 name='Wsr' step=0.01 kp=1 pline=3 col=5 valmin=0.9 valmax=1.5 /
+&variable kind=1 name='Wsa' step=0.01 kp=1 pline=3 col=6 valmin=0.4 valmax=1.0 /
+
+&variable kind=1 name='Vso' step=1 kp=1 pline=4 col=1 valmin=0.5 valmax=15.0 /
