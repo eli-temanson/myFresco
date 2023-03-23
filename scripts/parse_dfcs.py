@@ -1,4 +1,5 @@
 import csv  
+import sys
 
 def Filter(stateNum):
 	dataFlag=False
@@ -25,10 +26,15 @@ def Filter(stateNum):
 
 
 if __name__ == "__main__":
-	#Open the file
-	infile = open('fort.201', 'r') 
-	lines = infile.readlines() 
-	Filter(1)
+
+	name_of_script = sys.argv[0]
+	number_of_files = int(sys.argv[1])
+	index = range(1, number_of_files+1) # start with file 201
+
+	for i in index:
+		infile = open('fort.20{0}'.format(i), 'r') 
+		lines = infile.readlines() 
+		Filter(i)
 
 	# infile = open('fort.203', 'r') 
 	# lines = infile.readlines() 
