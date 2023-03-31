@@ -195,7 +195,61 @@
 
     7:  1  2  2  0     2  0 0.5  1 0.5   0   4   0   0.0500  1  1  0 0.0000 VR  0.9166; 1. 1.002 0.0480 1.0000  4.854    3.1    0.1 -3.92E+06
 
-    8:  1  2  2  0     1  2 0.5  1 1.5   0   4   0   0.0500  1  0  0 0.0000 VR  1.0204; 1. 1.002 0.0480 1.0000  3.833   -1.3    1.3  3.44E+05
+ For Channel #  1 with l = 2,  j =  1.5, around core state #  1
+
+   R    Y(R)
+   0.00   0.0000E+00,    0.20   7.0020E-04,    0.40   5.5074E-03,    0.60   1.8073E-02,    0.80   4.1183E-02,    1.00   7.6433E-02, 
+   1.20   1.2402E-01,    1.40   1.8270E-01,    1.60   2.4986E-01,    1.80   3.2179E-01,    2.00   3.9408E-01,    2.20   4.6208E-01, 
+   2.40   5.2144E-01,    2.60   5.6863E-01,    2.80   6.0127E-01,    3.00   6.1841E-01,    3.20   6.2050E-01,    3.40   6.0919E-01, 
+   3.60   5.8696E-01,    3.80   5.5665E-01,    4.00   5.2110E-01,    4.20   4.8281E-01,    4.40   4.4383E-01,    4.60   4.0564E-01, 
+   4.80   3.6926E-01,    5.00   3.3528E-01,    5.20   3.0400E-01,    5.40   2.7548E-01,    5.60   2.4966E-01,    5.80   2.2639E-01, 
+   6.00   2.0549E-01,    6.20   1.8674E-01,    6.40   1.6992E-01,    6.60   1.5484E-01,    6.80   1.4131E-01,    7.00   1.2916E-01, 
+   7.20   1.1823E-01,    7.40   1.0839E-01,    7.60   9.9513E-02,    7.80   9.1492E-02,    8.00   8.4234E-02,    8.20   7.7655E-02, 
+   8.40   7.1681E-02,    8.60   6.6250E-02,    8.80   6.1303E-02,    9.00   5.6791E-02,    9.20   5.2670E-02,    9.40   4.8899E-02, 
+   9.60   4.5446E-02,    9.80   4.2278E-02,   10.00   3.9368E-02,   10.20   3.6693E-02,   10.40   3.4229E-02,   10.60   3.1959E-02, 
+  10.80   2.9864E-02,   11.00   2.7928E-02,   11.20   2.6138E-02,   11.40   2.4482E-02,   11.60   2.2947E-02,   11.80   2.1523E-02, 
+  12.00   2.0202E-02,   12.20   1.8974E-02,   12.40   1.7832E-02,   12.60   1.6769E-02,   12.80   1.5780E-02,   13.00   1.4857E-02, 
+  13.20   1.3996E-02,   13.40   1.3193E-02,   13.60   1.2442E-02,   13.80   1.1740E-02,   14.00   1.1084E-02,   14.20   1.0470E-02, 
+  14.40   9.8939E-03,   14.60   9.3544E-03,   14.80   8.8484E-03,   15.00   8.3736E-03,   15.20   7.9277E-03,   15.40   7.5088E-03, 
+  15.60   7.1151E-03,   15.80   6.7448E-03,   16.00   6.3963E-03,   16.20   6.0682E-03,   16.40   5.7592E-03,   16.60   5.4680E-03, 
+  16.80   5.1934E-03,   17.00   4.9344E-03,   17.20   4.6899E-03,   17.40   4.4591E-03,   17.60   4.2411E-03,   17.80   4.0351E-03, 
+  18.00   3.8404E-03,   18.20   3.6562E-03,   18.40   3.4819E-03,   18.60   3.3170E-03,   18.80   3.1608E-03,   19.00   3.0129E-03, 
+  19.20   2.8727E-03,   19.40   2.7399E-03,   19.60   2.6139E-03,   19.80   2.4944E-03,   20.00   2.3810E-03,   20.20   2.2733E-03, 
+  20.40   2.1711E-03,   20.60   2.0740E-03,   20.80   1.9818E-03,   21.00   1.8941E-03,   21.20   1.8107E-03,   21.40   1.7314E-03, 
+  21.60   1.6560E-03,   21.80   1.5843E-03,   22.00   1.5160E-03,   22.20   1.4509E-03,   22.40   1.3890E-03,   22.60   1.3300E-03, 
+  22.80   1.2737E-03,   23.00   1.2201E-03,   23.20   1.1691E-03,   23.40   1.1203E-03,   23.60   1.0738E-03,   23.80   1.0295E-03, 
+  24.00   9.8717E-04,   24.20   9.4677E-04,   24.40   9.0819E-04,   24.60   8.7135E-04,   24.80   8.3616E-04,   25.00   8.0254E-04, 
+  25.20   7.7040E-04,   25.40   7.3969E-04,   25.60   7.1032E-04,   25.80   6.8223E-04,   26.00   6.5537E-04,   26.20   6.2967E-04, 
+  26.40   6.0508E-04,   26.60   5.8154E-04,   26.80   5.5901E-04,   27.00   5.3744E-04,   27.20   5.1678E-04,   27.40   4.9699E-04, 
+  27.60   4.7804E-04,   27.80   4.5987E-04,   28.00   4.4246E-04,   28.20   4.2578E-04,   28.40   4.0978E-04,   28.60   3.9444E-04, 
+  28.80   3.7973E-04,   29.00   3.6562E-04,   29.20   3.5208E-04,   29.40   3.3909E-04,   29.60   3.2663E-04,   29.80   3.1466E-04, 
+  30.00   3.0317E-04,   30.20   2.9214E-04,   30.40   2.8155E-04,   30.60   2.7138E-04,   30.80   2.6160E-04,   31.00   2.5221E-04, 
+  31.20   2.4319E-04,   31.40   2.3452E-04,   31.60   2.2619E-04,   31.80   2.1818E-04,   32.00   2.1047E-04,   32.20   2.0307E-04, 
+  32.40   1.9594E-04,   32.60   1.8909E-04,   32.80   1.8250E-04,   33.00   1.7616E-04,   33.20   1.7005E-04,   33.40   1.6418E-04, 
+  33.60   1.5853E-04,   33.80   1.5308E-04,   34.00   1.4785E-04,   34.20   1.4280E-04,   34.40   1.3794E-04,   34.60   1.3326E-04, 
+  34.80   1.2875E-04,   35.00   1.2441E-04,   35.20   1.2023E-04,   35.40   1.1620E-04,   35.60   1.1231E-04,   35.80   1.0857E-04, 
+  36.00   1.0496E-04,   36.20   1.0148E-04,   36.40   9.8122E-05,   36.60   9.4887E-05,   36.80   9.1767E-05,   37.00   8.8758E-05, 
+  37.20   8.5855E-05,   37.40   8.3054E-05,   37.60   8.0353E-05,   37.80   7.7746E-05,   38.00   7.5230E-05,   38.20   7.2802E-05, 
+  38.40   7.0458E-05,   38.60   6.8196E-05,   38.80   6.6012E-05,   39.00   6.3904E-05,   39.20   6.1868E-05,   39.40   5.9901E-05, 
+  39.60   5.8003E-05,   39.80   5.6168E-05,   40.00   5.4397E-05,   40.20   5.2685E-05,   40.40   5.1031E-05,   40.60   4.9433E-05, 
+  40.80   4.7889E-05,   41.00   4.6397E-05,   41.20   4.4954E-05,   41.40   4.3560E-05,   41.60   4.2212E-05,   41.80   4.0909E-05, 
+  42.00   3.9650E-05,   42.20   3.8431E-05,   42.40   3.7253E-05,   42.60   3.6114E-05,   42.80   3.5012E-05,   43.00   3.3946E-05, 
+  43.20   3.2915E-05,   43.40   3.1918E-05,   43.60   3.0952E-05,   43.80   3.0019E-05,   44.00   2.9115E-05,   44.20   2.8240E-05, 
+  44.40   2.7394E-05,   44.60   2.6575E-05,   44.80   2.5782E-05,   45.00   2.5014E-05,   45.20   2.4271E-05,   45.40   2.3551E-05, 
+  45.60   2.2854E-05,   45.80   2.2179E-05,   46.00   2.1526E-05,   46.20   2.0893E-05,   46.40   2.0280E-05,   46.60   1.9686E-05, 
+  46.80   1.9111E-05,   47.00   1.8554E-05,   47.20   1.8014E-05,   47.40   1.7490E-05,   47.60   1.6983E-05,   47.80   1.6492E-05, 
+  48.00   1.6016E-05,   48.20   1.5555E-05,   48.40   1.5107E-05,   48.60   1.4674E-05,   48.80   1.4254E-05,   49.00   1.3846E-05, 
+  49.20   1.3451E-05,   49.40   1.3068E-05,   49.60   1.2697E-05,   49.80   1.2336E-05,   50.00   1.1987E-05,   50.20   1.1648E-05, 
+  50.40   1.1320E-05,   50.60   1.1001E-05,   50.80   1.0692E-05,   51.00   1.0392E-05,   51.20   1.0101E-05,   51.40   9.8188E-06, 
+  51.60   9.5449E-06,   51.80   9.2791E-06,   52.00   9.0212E-06,   52.20   8.7709E-06,   52.40   8.5280E-06,   52.60   8.2923E-06, 
+  52.80   8.0634E-06,   53.00   7.8413E-06,   53.20   7.6257E-06,   53.40   7.4164E-06,   53.60   7.2132E-06,   53.80   7.0158E-06, 
+  54.00   6.8243E-06,   54.20   6.6382E-06,   54.40   6.4576E-06,   54.60   6.2822E-06,   54.80   6.1118E-06,   55.00   5.9463E-06, 
+
+ No.   P1 P2 IN KIND T N  L  S1 IA J/S  IB BIND XFER  BE    SC PC FIL AFRAC Adjust  to  Z  Mass   K     Norm    rms      D0     D   ANC/Gsp
+
+    At R=   54.900, ANC in ch  8 is   0.34414E+06,   eta,eta*ln(2*rho)+rho =    8.9864        17.573    
+
+    8:  1  2  2  0     1  2 0.5  1 1.5   0   4   0   0.0500  1  1  0 0.0000 VR  1.0204; 1. 1.002 0.0480 1.0000  3.833   -1.3    1.3  3.44E+05
 
     9:  1  2  2  0     1  2 0.5  1 2.5   0   4   0   0.0500  1  0  0 0.0000 VR  0.8499; 1. 1.002 0.0480 1.0000  4.009   -1.4    1.4  3.80E+05
 
@@ -272,7 +326,7 @@
    NLL,NLN,NLO =         275         276          26
 0File   9 needs RL =   14300    REAL*8 numbers, and NR =   487. i.e.    55.71 Megabytes
    File            9  RECL =      114400
-0RECOMMENDED NON-LOCAL WIDTH IS GREATER THAN    6.20 FM.,  RECOMMENDED CENTRATION  -1.30, after    0.57 secs.
+0RECOMMENDED NON-LOCAL WIDTH IS GREATER THAN    6.20 FM.,  RECOMMENDED CENTRATION  -1.30, after    0.54 secs.
 0Relative non-local usages (rms) are
     0.049   0.050   0.053   0.058   0.070   0.100   0.184   0.435   1.224   3.840  12.365  35.775  57.963 100.000  43.913
    26.992   7.804   1.931   0.540   0.193   0.092   0.059   0.044   0.035   0.028   0.022
@@ -291,7 +345,7 @@
    from    0.00000     to   0.00000     in     0 intervals
 
  Largest real,imaginary parts of any form factor at R=   54.00 are   2.67E-02  1.45E-29 MeV
- Finished all Couplings @   0.609375000              16
+ Finished all Couplings @   0.578125000              16
 
  Non-symmetric Hamiltonian
 1***********************************************************************************************************************************
@@ -595,13 +649,13 @@
    S-matrix    1 =   -0.06558  -0.24333 for L=    2, J=    2.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =  -52.542  39.485 deg. for the L =    2, J =    2.0 channel.
  Final S-matrices (    0.5+) at  0 after  1 accurate to   1.2280 % of J=   20.0 unitarity:  -0.06558 +i*-0.24333,
-       0.5 -0.06557635 -0.24332511i: elastic S-matrix  @@      0.08  0   0 F  0
+       0.5 -0.06557635 -0.24332511i: elastic S-matrix  @@      0.06  0   0 F  0
  Reaction Xsec     0.5+/ 2 @ 1 =   4.970 , Out:   0.000#   0.075    1.014/   1.448/   1.726/   9.754/   4.881f
 
    S-matrix    2 =   -0.02551  -0.28968 for L=    2, J=    3.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -47.516  35.384 deg. for the L =    2, J =    3.0 channel.
  Final S-matrices (    0.5+) at  0 after  1 accurate to   1.8640 % of J=   20.0 unitarity:  -0.02551 +i*-0.28968,
-       0.5 -0.02550952 -0.28967639i: elastic S-matrix  @@      0.00  0   0 F  0
+       0.5 -0.02550952 -0.28967639i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     0.5+/ 2 @ 2 =   4.858 , Out:   0.000#   0.173    0.945/   2.340/   2.107/   6.812/   4.673f
 
    S-matrix    3 =    0.59211  -0.03514 for L=    4, J=    3.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
@@ -913,7 +967,7 @@
    S-matrix    1 =   -0.01330  -0.10523 for L=    1, J=    2.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =  -48.601  64.277 deg. for the L =    1, J =    2.0 channel.
  Final S-matrices (    0.5-) at  0 after  1 accurate to   1.2678 % of J=   20.0 unitarity:  -0.01330 +i*-0.10523,
-       0.5 -0.01329820 -0.10523022i: elastic S-matrix  @@      0.08  0   0 F  0
+       0.5 -0.01329820 -0.10523022i: elastic S-matrix  @@      0.05  0   0 F  0
  Reaction Xsec     0.5-/ 1 @ 1 =   5.247 , Out:   0.000#   0.080    0.337/   0.729/   0.221/   0.048    5.117f
 
    S-matrix    2 =    0.37170  -0.14860 for L=    3, J=    2.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
@@ -934,13 +988,13 @@
    S-matrix    1 =   -0.09710   0.18760 for L=    0, J=    1.0 channel on core I =   2.5 from L=    0,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =   58.683  44.541 deg. for the L =    0, J =    1.0 channel.
  Final S-matrices (    1.5+) at  0 after  1 accurate to   1.0976 % of J=   20.0 unitarity:  -0.09710 +i* 0.18760,
-       1.5 -0.09709543  0.18759636i: elastic S-matrix  @@      0.17  0   0 F  0
+       1.5 -0.09709543  0.18759636i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec     1.5+/ 0 @ 1 =  10.140 , Out:   0.000#   0.067    0.053    9.553/   0.034    0.027    9.949f
 
    S-matrix    2 =   -0.06523  -0.20432 for L=    2, J=    1.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -53.853  44.104 deg. for the L =    2, J =    1.0 channel.
  Final S-matrices (    1.5+) at  0 after  1 accurate to   0.6068 % of J=   20.0 unitarity:  -0.06523 +i*-0.20432,
-       1.5 -0.06523202 -0.20432033i: elastic S-matrix  @@      0.03  0   0 F  0
+       1.5 -0.06523202 -0.20432033i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     1.5+/ 2 @ 2 =  10.125 , Out:   0.000#   2.777/   5.280/   0.012    4.856/   0.015   10.085f
 
    S-matrix    3 =   -0.06558  -0.24333 for L=    2, J=    2.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
@@ -952,19 +1006,19 @@
    S-matrix    4 =   -0.02551  -0.28968 for L=    2, J=    3.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =  -47.516  35.384 deg. for the L =    2, J =    3.0 channel.
  Final S-matrices (    1.5+) at  0 after  1 accurate to   0.6726 % of J=   20.0 unitarity:  -0.02551 +i*-0.28968,
-       1.5 -0.02550952 -0.28967639i: elastic S-matrix  @@      0.00  0   0 F  0
+       1.5 -0.02550952 -0.28967639i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     1.5+/ 2 @ 4 =   9.716 , Out:   0.000#   0.018    0.024    0.018    0.030    0.013    9.614f
 
    S-matrix    5 =    0.59211  -0.03514 for L=    4, J=    3.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -1.698  14.963 deg. for the L =    4, J =    3.0 channel.
  Final S-matrices (    1.5+) at  0 after  1 accurate to   0.7185 % of J=   20.0 unitarity:   0.59211 +i*-0.03514,
-       1.5  0.59210572 -0.03513682i: elastic S-matrix  @@      0.02  0   0 F  0
+       1.5  0.59210572 -0.03513682i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     1.5+/ 4 @ 5 =   6.879 , Out:   0.000#   0.016    3.262/   0.020    4.762/   0.021    6.814f
 
    S-matrix    6 =    0.58976  -0.04438 for L=    4, J=    4.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -2.152  15.046 deg. for the L =    4, J =    4.0 channel.
  Final S-matrices (    1.5+) at  0 after  1 accurate to   1.7178 % of J=   20.0 unitarity:   0.58976 +i*-0.04438,
-       1.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.00  0   0 F  0
+       1.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     1.5+/ 4 @ 6 =   6.901 , Out:   0.000#   0.165    6.770/   5.038/   0.014    3.768/   6.707f
 
 
@@ -972,7 +1026,7 @@
    S-matrix    1 =   -0.05320  -0.15537 for L=    1, J=    1.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =  -54.450  51.752 deg. for the L =    1, J =    1.0 channel.
  Final S-matrices (    1.5-) at  0 after  1 accurate to   2.0992 % of J=   20.0 unitarity:  -0.05320 +i*-0.15537,
-       1.5 -0.05319796 -0.15537477i: elastic S-matrix  @@      0.20  0   0 F  0
+       1.5 -0.05319796 -0.15537477i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec     1.5-/ 1 @ 1 =  10.327 , Out:   0.000#   0.050    0.042    2.329/   9.793/   0.208   10.016f
 
    S-matrix    2 =   -0.01330  -0.10523 for L=    1, J=    2.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
@@ -990,13 +1044,13 @@
    S-matrix    4 =    0.32530  -0.10013 for L=    3, J=    3.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =   -8.555  30.875 deg. for the L =    3, J =    3.0 channel.
  Final S-matrices (    1.5-) at  0 after  1 accurate to   0.6029 % of J=   20.0 unitarity:   0.32530 +i*-0.10013,
-       1.5  0.32530018 -0.10013195i: elastic S-matrix  @@      0.02  0   0 F  0
+       1.5  0.32530018 -0.10013195i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     1.5-/ 3 @ 4 =   9.384 , Out:   0.000#   7.083/   0.015    8.860/   8.938/   0.022    9.321f
 
    S-matrix    5 =    0.23454  -0.08944 for L=    3, J=    4.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =  -10.437  39.598 deg. for the L =    3, J =    4.0 channel.
  Final S-matrices (    1.5-) at  0 after  1 accurate to   2.4798 % of J=   20.0 unitarity:   0.23454 +i*-0.08944,
-       1.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.00  0   0 F  0
+       1.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     1.5-/ 3 @ 5 =   9.944 , Out:   0.000#   0.344    0.011    9.402/   3.728/   5.960/   9.570f
 
    S-matrix    6 =    0.87649   0.03667 for L=    5, J=    4.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
@@ -1011,13 +1065,13 @@
    S-matrix    1 =   -0.09710   0.18760 for L=    0, J=    1.0 channel on core I =   2.5 from L=    0,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =   58.683  44.541 deg. for the L =    0, J =    1.0 channel.
  Final S-matrices (    2.5+) at  0 after  1 accurate to   1.0647 % of J=   20.0 unitarity:  -0.09710 +i* 0.18760,
-       2.5 -0.09709543  0.18759636i: elastic S-matrix  @@      0.28  0   0 F  0
+       2.5 -0.09709543  0.18759636i: elastic S-matrix  @@      0.23  0   0 F  0
  Reaction Xsec     2.5+/ 0 @ 1 =  15.209 , Out:   0.000#   0.061    0.042    0.043    0.030    0.020   15.012f
 
    S-matrix    2 =   -0.06523  -0.20432 for L=    2, J=    1.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -53.853  44.104 deg. for the L =    2, J =    1.0 channel.
  Final S-matrices (    2.5+) at  0 after  1 accurate to   1.4693 % of J=   20.0 unitarity:  -0.06523 +i*-0.20432,
-       2.5 -0.06523202 -0.20432033i: elastic S-matrix  @@      0.02  0   0 F  0
+       2.5 -0.06523202 -0.20432033i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     2.5+/ 2 @ 2 =  15.187 , Out:   0.000#   0.018    0.031    0.136    0.021    0.029   14.951f
 
    S-matrix    3 =   -0.06558  -0.24333 for L=    2, J=    2.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
@@ -1029,19 +1083,19 @@
    S-matrix    4 =   -0.02551  -0.28968 for L=    2, J=    3.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =  -47.516  35.384 deg. for the L =    2, J =    3.0 channel.
  Final S-matrices (    2.5+) at  0 after  1 accurate to   1.3721 % of J=   20.0 unitarity:  -0.02551 +i*-0.28968,
-       2.5 -0.02550952 -0.28967639i: elastic S-matrix  @@      0.02  0   0 F  0
+       2.5 -0.02550952 -0.28967639i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     2.5+/ 2 @ 4 =  14.573 , Out:   0.000#   0.084    0.090    0.050    0.108    0.025   14.217f
 
    S-matrix    5 =    0.59211  -0.03514 for L=    4, J=    3.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -1.698  14.963 deg. for the L =    4, J =    3.0 channel.
  Final S-matrices (    2.5+) at  0 after  1 accurate to   1.2402 % of J=   20.0 unitarity:   0.59211 +i*-0.03514,
-       2.5  0.59210572 -0.03513682i: elastic S-matrix  @@      0.00  0   0 F  0
+       2.5  0.59210572 -0.03513682i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     2.5+/ 4 @ 5 =  10.319 , Out:   0.000#   7.421/   3.491/   0.086    5.503/   0.048   10.168f
 
    S-matrix    6 =    0.58976  -0.04438 for L=    4, J=    4.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -2.152  15.046 deg. for the L =    4, J =    4.0 channel.
  Final S-matrices (    2.5+) at  0 after  1 accurate to   1.4083 % of J=   20.0 unitarity:   0.58976 +i*-0.04438,
-       2.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.00  0   0 F  0
+       2.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.03  0   0 F  0
  Reaction Xsec     2.5+/ 4 @ 6 =  10.351 , Out:   0.000#   0.121/   0.057    0.027    0.077    0.019   10.172f
 
    S-matrix    7 =    0.60386  -0.01667 for L=    4, J=    5.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
@@ -1053,7 +1107,7 @@
    S-matrix    8 =    0.97172   0.01484 for L=    6, J=    5.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.438   0.819 deg. for the L =    6, J =    5.0 channel.
  Final S-matrices (    2.5+) at  0 after  1 accurate to   0.2530 % of J=   20.0 unitarity:   0.97172 +i* 0.01484,
-       2.5  0.97171932  0.01484186i: elastic S-matrix  @@      0.03  0   0 F  0
+       2.5  0.97171932  0.01484186i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     2.5+/ 6 @ 8 =   0.884 , Out:   0.000#   6.643#   1.423/   3.090/   2.509/   1.848/   0.875f
 
 
@@ -1067,7 +1121,7 @@
    S-matrix    2 =   -0.05320  -0.15537 for L=    1, J=    1.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -54.450  51.752 deg. for the L =    1, J =    1.0 channel.
  Final S-matrices (    2.5-) at  0 after  1 accurate to   2.1856 % of J=   20.0 unitarity:  -0.05320 +i*-0.15537,
-       2.5 -0.05319796 -0.15537477i: elastic S-matrix  @@      0.00  0   0 F  0
+       2.5 -0.05319796 -0.15537477i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     2.5-/ 1 @ 2 =  15.490 , Out:   0.000#   0.032    0.024    7.268/   0.010    0.209   15.208f
 
    S-matrix    3 =   -0.01330  -0.10523 for L=    1, J=    2.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
@@ -1079,7 +1133,7 @@
    S-matrix    4 =    0.37170  -0.14860 for L=    3, J=    2.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =  -10.896  26.228 deg. for the L =    3, J =    2.0 channel.
  Final S-matrices (    2.5-) at  0 after  1 accurate to   1.4285 % of J=   20.0 unitarity:   0.37170 +i*-0.14860,
-       2.5  0.37170159 -0.14860242i: elastic S-matrix  @@      0.02  0   0 F  0
+       2.5  0.37170159 -0.14860242i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     2.5-/ 3 @ 4 =  13.369 , Out:   0.000#   9.074/   0.011    0.056    0.010    0.089   13.193f
 
    S-matrix    5 =    0.32530  -0.10013 for L=    3, J=    3.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
@@ -1091,7 +1145,7 @@
    S-matrix    6 =    0.23454  -0.08944 for L=    3, J=    4.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =  -10.437  39.598 deg. for the L =    3, J =    4.0 channel.
  Final S-matrices (    2.5-) at  0 after  1 accurate to   1.0837 % of J=   20.0 unitarity:   0.23454 +i*-0.08944,
-       2.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.02  0   0 F  0
+       2.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     2.5-/ 3 @ 6 =  14.917 , Out:   0.000#   3.660/   0.100    0.033    0.034    0.060   14.686f
 
    S-matrix    7 =    0.87649   0.03667 for L=    5, J=    4.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
@@ -1103,7 +1157,7 @@
    S-matrix    8 =    0.86139   0.06185 for L=    5, J=    5.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    2.053   4.201 deg. for the L =    5, J =    5.0 channel.
  Final S-matrices (    2.5-) at  0 after  1 accurate to   1.0015 % of J=   20.0 unitarity:   0.86139 +i* 0.06185,
-       2.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.02  0   0 F  0
+       2.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     2.5-/ 5 @ 8 =   4.047 , Out:   0.000#   0.054    4.520/   5.804/   0.022    5.423/   3.955f
 
  Allocate arrays for           34  channels, of which           34  need wfs.
@@ -1112,13 +1166,13 @@
    S-matrix    1 =   -0.09710   0.18760 for L=    0, J=    1.0 channel on core I =   2.5 from L=    0,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =   58.683  44.541 deg. for the L =    0, J =    1.0 channel.
  Final S-matrices (    3.5+) at  0 after  1 accurate to   1.4794 % of J=   20.0 unitarity:  -0.09710 +i* 0.18760,
-       3.5 -0.09709543  0.18759636i: elastic S-matrix  @@      0.12  0   0 F  0
+       3.5 -0.09709543  0.18759636i: elastic S-matrix  @@      0.16  0   0 F  0
  Reaction Xsec     3.5+/ 0 @ 1 =  20.279 , Out:   0.000#   0.012    0.013    0.102    7.444/   0.039   20.106f
 
    S-matrix    2 =   -0.06523  -0.20432 for L=    2, J=    1.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -53.853  44.104 deg. for the L =    2, J =    1.0 channel.
  Final S-matrices (    3.5+) at  0 after  1 accurate to   2.0307 % of J=   20.0 unitarity:  -0.06523 +i*-0.20432,
-       3.5 -0.06523202 -0.20432033i: elastic S-matrix  @@      0.02  0   0 F  0
+       3.5 -0.06523202 -0.20432033i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     3.5+/ 2 @ 2 =  20.250 , Out:   0.000#   0.042    0.060    0.171    0.037    0.034   19.906f
 
    S-matrix    3 =   -0.06558  -0.24333 for L=    2, J=    2.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
@@ -1136,19 +1190,19 @@
    S-matrix    5 =    0.59211  -0.03514 for L=    4, J=    3.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -1.698  14.963 deg. for the L =    4, J =    3.0 channel.
  Final S-matrices (    3.5+) at  0 after  1 accurate to   2.3386 % of J=   20.0 unitarity:   0.59211 +i*-0.03514,
-       3.5  0.59210572 -0.03513682i: elastic S-matrix  @@      0.02  0   0 F  0
+       3.5  0.59210572 -0.03513682i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     3.5+/ 4 @ 5 =  13.758 , Out:   0.000#   0.035    0.034    0.233    0.020    0.047   13.390f
 
    S-matrix    6 =    0.58976  -0.04438 for L=    4, J=    4.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -2.152  15.046 deg. for the L =    4, J =    4.0 channel.
  Final S-matrices (    3.5+) at  0 after  1 accurate to   1.8090 % of J=   20.0 unitarity:   0.58976 +i*-0.04438,
-       3.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.00  0   0 F  0
+       3.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     3.5+/ 4 @ 6 =  13.802 , Out:   0.000#   0.139    0.138    0.085    0.135    0.108   13.196f
 
    S-matrix    7 =    0.60386  -0.01667 for L=    4, J=    5.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =   -0.791  14.439 deg. for the L =    4, J =    5.0 channel.
  Final S-matrices (    3.5+) at  0 after  1 accurate to   2.0512 % of J=   20.0 unitarity:   0.60386 +i*-0.01667,
-       3.5  0.60386219 -0.01667137i: elastic S-matrix  @@      0.03  0   0 F  0
+       3.5  0.60386219 -0.01667137i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     3.5+/ 4 @ 7 =  13.480 , Out:   0.000#   1.675/   0.068    0.033    0.154    0.044   13.180f
 
    S-matrix    8 =    0.97172   0.01484 for L=    6, J=    5.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
@@ -1160,7 +1214,7 @@
    S-matrix    9 =    0.96931   0.02449 for L=    6, J=    6.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.724   0.884 deg. for the L =    6, J =    6.0 channel.
  Final S-matrices (    3.5+) at  0 after  1 accurate to   0.9100 % of J=   20.0 unitarity:   0.96931 +i* 0.02449,
-       3.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.00  0   0 F  0
+       3.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     3.5+/ 6 @ 9 =   1.270 , Out:   0.000#   0.041    6.343/   3.117/   0.010    2.444/   1.207f
 
 
@@ -1168,7 +1222,7 @@
    S-matrix    1 =   -0.05320  -0.15537 for L=    1, J=    1.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =  -54.450  51.752 deg. for the L =    1, J =    1.0 channel.
  Final S-matrices (    3.5-) at  0 after  1 accurate to   2.5776 % of J=   20.0 unitarity:  -0.05320 +i*-0.15537,
-       3.5 -0.05319796 -0.15537477i: elastic S-matrix  @@      0.12  0   0 F  0
+       3.5 -0.05319796 -0.15537477i: elastic S-matrix  @@      0.09  0   0 F  0
  Reaction Xsec     3.5-/ 1 @ 1 =  20.654 , Out:   0.000#   0.044    0.042    0.037    0.013    0.354   20.163f
 
    S-matrix    2 =   -0.01330  -0.10523 for L=    1, J=    2.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
@@ -1180,13 +1234,13 @@
    S-matrix    3 =    0.37170  -0.14860 for L=    3, J=    2.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =  -10.896  26.228 deg. for the L =    3, J =    2.0 channel.
  Final S-matrices (    3.5-) at  0 after  1 accurate to   1.6546 % of J=   20.0 unitarity:   0.37170 +i*-0.14860,
-       3.5  0.37170159 -0.14860242i: elastic S-matrix  @@      0.02  0   0 F  0
+       3.5  0.37170159 -0.14860242i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     3.5-/ 3 @ 3 =  17.825 , Out:   0.000#   0.017    0.024    0.117    0.041    0.065   17.561f
 
    S-matrix    4 =    0.32530  -0.10013 for L=    3, J=    3.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =   -8.555  30.875 deg. for the L =    3, J =    3.0 channel.
  Final S-matrices (    3.5-) at  0 after  1 accurate to   4.2970 % of J=   20.0 unitarity:   0.32530 +i*-0.10013,
-       3.5  0.32530018 -0.10013195i: elastic S-matrix  @@      0.00  0   0 F  0
+       3.5  0.32530018 -0.10013195i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     3.5-/ 3 @ 4 =  18.767 , Out:   0.000#   0.012    0.057    0.100    0.072    0.584   17.943f
 
    S-matrix    5 =    0.23454  -0.08944 for L=    3, J=    4.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
@@ -1204,19 +1258,19 @@
    S-matrix    7 =    0.86139   0.06185 for L=    5, J=    5.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    2.053   4.201 deg. for the L =    5, J =    5.0 channel.
  Final S-matrices (    3.5-) at  0 after  1 accurate to   1.4467 % of J=   20.0 unitarity:   0.86139 +i* 0.06185,
-       3.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.02  0   0 F  0
+       3.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     3.5-/ 5 @ 7 =   5.395 , Out:   0.000#   2.903/   0.030    0.025    0.071    0.037    5.230f
 
    S-matrix    8 =    0.83285   0.08313 for L=    5, J=    6.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    2.850   5.098 deg. for the L =    5, J =    6.0 channel.
  Final S-matrices (    3.5-) at  0 after  1 accurate to   2.3953 % of J=   20.0 unitarity:   0.83285 +i* 0.08313,
-       3.5  0.83285232  0.08312984i: elastic S-matrix  @@      0.02  0   0 F  0
+       3.5  0.83285232  0.08312984i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     3.5-/ 5 @ 8 =   6.356 , Out:   0.000#   0.285    0.032    5.506/   0.046    0.011    5.976f
 
    S-matrix    9 =    0.99417   0.00298 for L=    7, J=    6.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.086   0.168 deg. for the L =    7, J =    6.0 channel.
  Final S-matrices (    3.5-) at  0 after  1 accurate to   0.1536 % of J=   20.0 unitarity:   0.99417 +i* 0.00298,
-       3.5  0.99416527  0.00297813i: elastic S-matrix  @@      0.00  0   0 F  0
+       3.5  0.99416527  0.00297813i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     3.5-/ 7 @ 9 =   0.247 , Out:   0.000#   4.113#   0.460/   1.118/   0.775/   0.548/   0.244f
 
 
@@ -1224,7 +1278,7 @@
    S-matrix    1 =   -0.06558  -0.24333 for L=    2, J=    2.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =  -52.542  39.485 deg. for the L =    2, J =    2.0 channel.
  Final S-matrices (    4.5+) at  0 after  1 accurate to   1.8665 % of J=   20.0 unitarity:  -0.06558 +i*-0.24333,
-       4.5 -0.06557635 -0.24332511i: elastic S-matrix  @@      0.16  0   0 F  0
+       4.5 -0.06557635 -0.24332511i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec     4.5+/ 2 @ 1 =  24.848 , Out:   0.000#   0.024    0.040    0.204    0.024    0.045   24.510f
 
    S-matrix    2 =   -0.02551  -0.28968 for L=    2, J=    3.0 channel on core I =   2.5 from L=    2,  Acc. loss =  0.0 D.
@@ -1260,19 +1314,19 @@
    S-matrix    7 =    0.96931   0.02449 for L=    6, J=    6.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.724   0.884 deg. for the L =    6, J =    6.0 channel.
  Final S-matrices (    4.5+) at  0 after  1 accurate to   0.9007 % of J=   20.0 unitarity:   0.96931 +i* 0.02449,
-       4.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.02  0   0 F  0
+       4.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     4.5+/ 6 @ 7 =   1.588 , Out:   0.000#   1.432/   0.019    0.012    0.025    0.013    1.517f
 
    S-matrix    8 =    0.96685   0.03597 for L=    6, J=    7.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    1.065   0.946 deg. for the L =    6, J =    7.0 channel.
  Final S-matrices (    4.5+) at  0 after  1 accurate to   0.9661 % of J=   20.0 unitarity:   0.96685 +i* 0.03597,
-       4.5  0.96684983  0.03596774i: elastic S-matrix  @@      0.00  0   0 F  0
+       4.5  0.96684983  0.03596774i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     4.5+/ 6 @ 8 =   1.696 , Out:   0.000#   0.043    0.012    1.551/   0.021    3.697/   1.615f
 
    S-matrix    9 =    0.99874   0.00034 for L=    8, J=    7.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.010   0.036 deg. for the L =    8, J =    7.0 channel.
  Final S-matrices (    4.5+) at  0 after  1 accurate to   0.0942 % of J=   20.0 unitarity:   0.99874 +i* 0.00034,
-       4.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.02  0   0 F  0
+       4.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     4.5+/ 8 @ 9 =   0.067 , Out:   0.000#   0.855#   0.132/   0.363/   0.225/   0.145/   0.066f
 
 
@@ -1280,13 +1334,13 @@
    S-matrix    1 =   -0.01330  -0.10523 for L=    1, J=    2.0 channel on core I =   2.5 from L=    1,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =  -48.601  64.277 deg. for the L =    1, J =    2.0 channel.
  Final S-matrices (    4.5-) at  0 after  1 accurate to   2.4578 % of J=   20.0 unitarity:  -0.01330 +i*-0.10523,
-       4.5 -0.01329820 -0.10523022i: elastic S-matrix  @@      0.14  0   0 F  0
+       4.5 -0.01329820 -0.10523022i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec     4.5-/ 1 @ 1 =  26.234 , Out:   0.000#   0.013    0.015    0.023    4.434/   0.179   26.000f
 
    S-matrix    2 =    0.37170  -0.14860 for L=    3, J=    2.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -10.896  26.228 deg. for the L =    3, J =    2.0 channel.
  Final S-matrices (    4.5-) at  0 after  1 accurate to   2.0398 % of J=   20.0 unitarity:   0.37170 +i*-0.14860,
-       4.5  0.37170159 -0.14860242i: elastic S-matrix  @@      0.00  0   0 F  0
+       4.5  0.37170159 -0.14860242i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     4.5-/ 3 @ 2 =  22.281 , Out:   0.000#   0.045    0.027    0.137    0.035    0.122   21.916f
 
    S-matrix    3 =    0.32530  -0.10013 for L=    3, J=    3.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
@@ -1298,13 +1352,13 @@
    S-matrix    4 =    0.23454  -0.08944 for L=    3, J=    4.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =  -10.437  39.598 deg. for the L =    3, J =    4.0 channel.
  Final S-matrices (    4.5-) at  0 after  1 accurate to   6.3488 % of J=   20.0 unitarity:   0.23454 +i*-0.08944,
-       4.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.02  0   0 F  0
+       4.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     4.5-/ 3 @ 4 =  24.861 , Out:   0.000#   3.018/   0.126    0.094    0.052    1.115   23.471f
 
    S-matrix    5 =    0.87649   0.03667 for L=    5, J=    4.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    1.198   3.752 deg. for the L =    5, J =    4.0 channel.
  Final S-matrices (    4.5-) at  0 after  1 accurate to   1.9414 % of J=   20.0 unitarity:   0.87649 +i* 0.03667,
-       4.5  0.87648622  0.03667411i: elastic S-matrix  @@      0.00  0   0 F  0
+       4.5  0.87648622  0.03667411i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     4.5-/ 5 @ 5 =   6.114 , Out:   0.000#   0.019    0.017    0.133    0.012    0.025    5.908f
 
    S-matrix    6 =    0.86139   0.06185 for L=    5, J=    5.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
@@ -1322,13 +1376,13 @@
    S-matrix    8 =    0.99417   0.00298 for L=    7, J=    6.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.086   0.168 deg. for the L =    7, J =    6.0 channel.
  Final S-matrices (    4.5-) at  0 after  1 accurate to   0.3327 % of J=   20.0 unitarity:   0.99417 +i* 0.00298,
-       4.5  0.99416527  0.00297813i: elastic S-matrix  @@      0.02  0   0 F  0
+       4.5  0.99416527  0.00297813i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     4.5-/ 7 @ 8 =   0.308 , Out:   0.000#   1.506/   0.207/   3.961/   0.392/   1.264/   0.301f
 
    S-matrix    9 =    0.99393   0.00657 for L=    7, J=    7.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.189   0.174 deg. for the L =    7, J =    7.0 channel.
  Final S-matrices (    4.5-) at  0 after  1 accurate to   0.4857 % of J=   20.0 unitarity:   0.99393 +i* 0.00657,
-       4.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.00  0   0 F  0
+       4.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     4.5-/ 7 @ 9 =   0.320 , Out:   0.000#   0.011    1.968/   1.002/   2.888/   0.815/   0.303f
 
 
@@ -1348,19 +1402,19 @@
    S-matrix    3 =    0.58976  -0.04438 for L=    4, J=    4.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -2.152  15.046 deg. for the L =    4, J =    4.0 channel.
  Final S-matrices (    5.5+) at  0 after  1 accurate to   3.1482 % of J=   20.0 unitarity:   0.58976 +i*-0.04438,
-       5.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.02  0   0 F  0
+       5.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     5.5+/ 4 @ 3 =  20.702 , Out:   0.000#   0.018    0.046    0.261    0.018    0.258   20.103f
 
    S-matrix    4 =    0.60386  -0.01667 for L=    4, J=    5.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =   -0.791  14.439 deg. for the L =    4, J =    5.0 channel.
  Final S-matrices (    5.5+) at  0 after  1 accurate to   4.0295 % of J=   20.0 unitarity:   0.60386 +i*-0.01667,
-       5.5  0.60386219 -0.01667137i: elastic S-matrix  @@      0.02  0   0 F  0
+       5.5  0.60386219 -0.01667137i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     5.5+/ 4 @ 4 =  20.220 , Out:   0.000#   1.953/   0.063    0.075    0.029    0.412   19.640f
 
    S-matrix    5 =    0.97172   0.01484 for L=    6, J=    5.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.438   0.819 deg. for the L =    6, J =    5.0 channel.
  Final S-matrices (    5.5+) at  0 after  1 accurate to   1.4044 % of J=   20.0 unitarity:   0.97172 +i* 0.01484,
-       5.5  0.97171932  0.01484186i: elastic S-matrix  @@      0.00  0   0 F  0
+       5.5  0.97171932  0.01484186i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5+/ 6 @ 5 =   1.768 , Out:   0.000#   4.824/   7.019/   0.060    4.946/   5.219/   1.687f
 
    S-matrix    6 =    0.96931   0.02449 for L=    6, J=    6.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
@@ -1378,13 +1432,13 @@
    S-matrix    8 =    0.99874   0.00034 for L=    8, J=    7.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.010   0.036 deg. for the L =    8, J =    7.0 channel.
  Final S-matrices (    5.5+) at  0 after  1 accurate to   0.1925 % of J=   20.0 unitarity:   0.99874 +i* 0.00034,
-       5.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.03  0   0 F  0
+       5.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5+/ 8 @ 8 =   0.080 , Out:   0.000#   0.379/   0.048/   1.187/   0.099/   0.305/   0.078f
 
    S-matrix    9 =    0.99872   0.00156 for L=    8, J=    8.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.045   0.037 deg. for the L =    8, J =    8.0 channel.
  Final S-matrices (    5.5+) at  0 after  1 accurate to   0.2321 % of J=   20.0 unitarity:   0.99872 +i* 0.00156,
-       5.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.02  0   0 F  0
+       5.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     5.5+/ 8 @ 9 =   0.081 , Out:   0.000#   2.262/   0.529/   0.300/   0.780/   0.221/   0.077f
 
 
@@ -1392,13 +1446,13 @@
    S-matrix    1 =    0.32530  -0.10013 for L=    3, J=    3.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =   -8.555  30.875 deg. for the L =    3, J =    3.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   1.8591 % of J=   20.0 unitarity:   0.32530 +i*-0.10013,
-       5.5  0.32530018 -0.10013195i: elastic S-matrix  @@      0.14  0   0 F  0
+       5.5  0.32530018 -0.10013195i: elastic S-matrix  @@      0.11  0   0 F  0
  Reaction Xsec     5.5-/ 3 @ 1 =  28.151 , Out:   0.000#   0.041    0.057    0.193    0.018    0.053   27.788f
 
    S-matrix    2 =    0.23454  -0.08944 for L=    3, J=    4.0 channel on core I =   2.5 from L=    3,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =  -10.437  39.598 deg. for the L =    3, J =    4.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   6.2011 % of J=   20.0 unitarity:   0.23454 +i*-0.08944,
-       5.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.00  0   0 F  0
+       5.5  0.23454181 -0.08944361i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5-/ 3 @ 2 =  29.833 , Out:   0.000#   0.023    4.640/   0.097    0.404/   0.983   28.725f
 
    S-matrix    3 =    0.87649   0.03667 for L=    5, J=    4.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
@@ -1410,13 +1464,13 @@
    S-matrix    4 =    0.86139   0.06185 for L=    5, J=    5.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    2.053   4.201 deg. for the L =    5, J =    5.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   2.4266 % of J=   20.0 unitarity:   0.86139 +i* 0.06185,
-       5.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.00  0   0 F  0
+       5.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5-/ 5 @ 4 =   8.093 , Out:   0.000#   0.014    0.041    0.123    0.011    0.156    7.748f
 
    S-matrix    5 =    0.83285   0.08313 for L=    5, J=    6.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    2.850   5.098 deg. for the L =    5, J =    6.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   2.2662 % of J=   20.0 unitarity:   0.83285 +i* 0.08313,
-       5.5  0.83285232  0.08312984i: elastic S-matrix  @@      0.03  0   0 F  0
+       5.5  0.83285232  0.08312984i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5-/ 5 @ 5 =   9.534 , Out:   0.000#   0.060    0.128    0.021    0.124    0.223    8.978f
 
    S-matrix    6 =    0.99417   0.00298 for L=    7, J=    6.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
@@ -1428,19 +1482,19 @@
    S-matrix    7 =    0.99393   0.00657 for L=    7, J=    7.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.189   0.174 deg. for the L =    7, J =    7.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   0.4620 % of J=   20.0 unitarity:   0.99393 +i* 0.00657,
-       5.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.00  0   0 F  0
+       5.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5-/ 7 @ 7 =   0.384 , Out:   0.000#   0.688/   4.982/   3.381/   6.074/   3.570/   0.366f
 
    S-matrix    8 =    0.99359   0.01074 for L=    7, J=    8.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.310   0.183 deg. for the L =    7, J =    8.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   0.6882 % of J=   20.0 unitarity:   0.99359 +i* 0.01074,
-       5.5  0.99358513  0.01074191i: elastic S-matrix  @@      0.02  0   0 F  0
+       5.5  0.99358513  0.01074191i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     5.5-/ 7 @ 8 =   0.404 , Out:   0.000#   0.020    3.870/   0.388/   5.435/   1.304/   0.373f
 
    S-matrix    9 =    0.99973  -0.00005 for L=    9, J=    8.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =   -0.001   0.008 deg. for the L =    9, J =    8.0 channel.
  Final S-matrices (    5.5-) at  0 after  1 accurate to   0.0554 % of J=   20.0 unitarity:   0.99973 +i*-0.00005,
-       5.5  0.99972649 -0.00004849i: elastic S-matrix  @@      0.00  0   0 F  0
+       5.5  0.99972649 -0.00004849i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     5.5-/ 9 @ 9 =   0.017 , Out:   0.000#   0.485#   0.037/   0.111/   0.062/   0.037/   0.017f
 
 
@@ -1448,7 +1502,7 @@
    S-matrix    1 =    0.58976  -0.04438 for L=    4, J=    4.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =   -2.152  15.046 deg. for the L =    4, J =    4.0 channel.
  Final S-matrices (    6.5+) at  0 after  1 accurate to   1.4517 % of J=   20.0 unitarity:   0.58976 +i*-0.04438,
-       6.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.16  0   0 F  0
+       6.5  0.58975980 -0.04437638i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec     6.5+/ 4 @ 1 =  24.153 , Out:   0.000#   0.015    0.028    0.104    9.740/   0.022   23.973f
 
    S-matrix    2 =    0.60386  -0.01667 for L=    4, J=    5.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
@@ -1466,13 +1520,13 @@
    S-matrix    4 =    0.96931   0.02449 for L=    6, J=    6.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.724   0.884 deg. for the L =    6, J =    6.0 channel.
  Final S-matrices (    6.5+) at  0 after  1 accurate to   1.2643 % of J=   20.0 unitarity:   0.96931 +i* 0.02449,
-       6.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.02  0   0 F  0
+       6.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     6.5+/ 6 @ 4 =   2.223 , Out:   0.000#   3.250/   9.582/   0.047    3.032/   0.032    2.127f
 
    S-matrix    5 =    0.96685   0.03597 for L=    6, J=    7.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    1.065   0.946 deg. for the L =    6, J =    7.0 channel.
  Final S-matrices (    6.5+) at  0 after  1 accurate to   1.2583 % of J=   20.0 unitarity:   0.96685 +i* 0.03597,
-       6.5  0.96684983  0.03596774i: elastic S-matrix  @@      0.00  0   0 F  0
+       6.5  0.96684983  0.03596774i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     6.5+/ 6 @ 5 =   2.374 , Out:   0.000#   0.011    0.033    5.282/   0.042    0.049    2.233f
 
    S-matrix    6 =    0.99874   0.00034 for L=    8, J=    7.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
@@ -1496,7 +1550,7 @@
    S-matrix    9 =    0.99994  -0.00006 for L=   10, J=    9.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =   -0.002   0.002 deg. for the L =   10, J =    9.0 channel.
  Final S-matrices (    6.5+) at  0 after  1 accurate to   0.0318 % of J=   20.0 unitarity:   0.99994 +i*-0.00006,
-       6.5  0.99994034 -0.00005501i: elastic S-matrix  @@      0.02  0   0 F  0
+       6.5  0.99994034 -0.00005501i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     6.5+/10 @ 9 =   4.432/, Out:   0.000#   0.126#   0.010/   0.033/   0.017/   8.937#   0.004f
 
 
@@ -1510,13 +1564,13 @@
    S-matrix    2 =    0.87649   0.03667 for L=    5, J=    4.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    1.198   3.752 deg. for the L =    5, J =    4.0 channel.
  Final S-matrices (    6.5-) at  0 after  1 accurate to   1.2083 % of J=   20.0 unitarity:   0.87649 +i* 0.03667,
-       6.5  0.87648622  0.03667411i: elastic S-matrix  @@      0.02  0   0 F  0
+       6.5  0.87648622  0.03667411i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     6.5-/ 5 @ 2 =   8.559 , Out:   0.000#   6.563/   0.022    0.033    5.030/   0.037    8.456f
 
    S-matrix    3 =    0.86139   0.06185 for L=    5, J=    5.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    2.053   4.201 deg. for the L =    5, J =    5.0 channel.
  Final S-matrices (    6.5-) at  0 after  1 accurate to   2.1884 % of J=   20.0 unitarity:   0.86139 +i* 0.06185,
-       6.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.00  0   0 F  0
+       6.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     6.5-/ 5 @ 3 =   9.442 , Out:   0.000#   4.896/   0.028    0.152    6.382/   0.113    9.137f
 
    S-matrix    4 =    0.83285   0.08313 for L=    5, J=    6.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
@@ -1528,19 +1582,19 @@
    S-matrix    5 =    0.99417   0.00298 for L=    7, J=    6.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.086   0.168 deg. for the L =    7, J =    6.0 channel.
  Final S-matrices (    6.5-) at  0 after  1 accurate to   0.7483 % of J=   20.0 unitarity:   0.99417 +i* 0.00298,
-       6.5  0.99416527  0.00297813i: elastic S-matrix  @@      0.02  0   0 F  0
+       6.5  0.99416527  0.00297813i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     6.5-/ 7 @ 5 =   0.432 , Out:   0.000#   1.058/   1.909/   0.016    1.324/   1.218/   0.411f
 
    S-matrix    6 =    0.99393   0.00657 for L=    7, J=    7.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.189   0.174 deg. for the L =    7, J =    7.0 channel.
  Final S-matrices (    6.5-) at  0 after  1 accurate to   0.4963 % of J=   20.0 unitarity:   0.99393 +i* 0.00657,
-       6.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.00  0   0 F  0
+       6.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     6.5-/ 7 @ 6 =   0.448 , Out:   0.000#   2.080/   5.417/   7.329/   5.438/   7.290/   0.421f
 
    S-matrix    7 =    0.99359   0.01074 for L=    7, J=    8.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.310   0.183 deg. for the L =    7, J =    8.0 channel.
  Final S-matrices (    6.5-) at  0 after  1 accurate to   0.6594 % of J=   20.0 unitarity:   0.99359 +i* 0.01074,
-       6.5  0.99358513  0.01074191i: elastic S-matrix  @@      0.00  0   0 F  0
+       6.5  0.99358513  0.01074191i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     6.5-/ 7 @ 7 =   0.471 , Out:   0.000#   0.019/   9.071/   0.827/   0.011    6.064/   0.444f
 
    S-matrix    8 =    0.99973  -0.00005 for L=    9, J=    8.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
@@ -1552,7 +1606,7 @@
    S-matrix    9 =    0.99972   0.00036 for L=    9, J=    9.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.010   0.008 deg. for the L =    9, J =    9.0 channel.
  Final S-matrices (    6.5-) at  0 after  1 accurate to   0.1129 % of J=   20.0 unitarity:   0.99972 +i* 0.00036,
-       6.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.00  0   0 F  0
+       6.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     6.5-/ 9 @ 9 =   0.020 , Out:   0.000#   0.493/   0.141/   0.087/   0.206/   0.056/   0.019f
 
 
@@ -1560,7 +1614,7 @@
    S-matrix    1 =    0.60386  -0.01667 for L=    4, J=    5.0 channel on core I =   2.5 from L=    4,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =   -0.791  14.439 deg. for the L =    4, J =    5.0 channel.
  Final S-matrices (    7.5+) at  0 after  1 accurate to   1.4720 % of J=   20.0 unitarity:   0.60386 +i*-0.01667,
-       7.5  0.60386219 -0.01667137i: elastic S-matrix  @@      0.16  0   0 F  0
+       7.5  0.60386219 -0.01667137i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec     7.5+/ 4 @ 1 =  26.960 , Out:   0.000#   0.879/   2.090/   0.052    0.068/   2.735/  26.902f
 
    S-matrix    2 =    0.97172   0.01484 for L=    6, J=    5.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
@@ -1584,19 +1638,19 @@
    S-matrix    5 =    0.99874   0.00034 for L=    8, J=    7.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.010   0.036 deg. for the L =    8, J =    7.0 channel.
  Final S-matrices (    7.5+) at  0 after  1 accurate to   0.3990 % of J=   20.0 unitarity:   0.99874 +i* 0.00034,
-       7.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.00  0   0 F  0
+       7.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     7.5+/ 8 @ 5 =   0.106 , Out:   0.000#   0.231/   0.497/   4.055/   0.344/   0.248/   0.101f
 
    S-matrix    6 =    0.99872   0.00156 for L=    8, J=    8.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.045   0.037 deg. for the L =    8, J =    8.0 channel.
  Final S-matrices (    7.5+) at  0 after  1 accurate to   0.2660 % of J=   20.0 unitarity:   0.99872 +i* 0.00156,
-       7.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.02  0   0 F  0
+       7.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     7.5+/ 8 @ 6 =   0.108 , Out:   0.000#   0.381/   1.203/   1.930/   1.216/   1.524/   0.102f
 
    S-matrix    7 =    0.99870   0.00294 for L=    8, J=    9.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.084   0.037 deg. for the L =    8, J =    9.0 channel.
  Final S-matrices (    7.5+) at  0 after  1 accurate to   0.3349 % of J=   20.0 unitarity:   0.99870 +i* 0.00294,
-       7.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.00  0   0 F  0
+       7.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     7.5+/ 8 @ 7 =   0.110 , Out:   0.000#   5.186#   2.127/   0.197/   2.669/   1.360/   0.104f
 
    S-matrix    8 =    0.99994  -0.00006 for L=   10, J=    9.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
@@ -1608,7 +1662,7 @@
    S-matrix    9 =    0.99994   0.00008 for L=   10, J=   10.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.002   0.002 deg. for the L =   10, J =   10.0 channel.
  Final S-matrices (    7.5+) at  0 after  1 accurate to   0.0553 % of J=   20.0 unitarity:   0.99994 +i* 0.00008,
-       7.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.02  0   0 F  0
+       7.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     7.5+/10 @ 9 =   5.081/, Out:   0.000#   0.110/   0.037/   0.025/   0.053/   0.014/   0.005f
 
 
@@ -1616,7 +1670,7 @@
    S-matrix    1 =    0.86139   0.06185 for L=    5, J=    5.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    2.053   4.201 deg. for the L =    5, J =    5.0 channel.
  Final S-matrices (    7.5-) at  0 after  1 accurate to   0.9022 % of J=   20.0 unitarity:   0.86139 +i* 0.06185,
-       7.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.16  0   0 F  0
+       7.5  0.86138505  0.06184695i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec     7.5-/ 5 @ 1 =  10.791 , Out:   0.000#   5.126/   0.015    0.033    3.086/   0.019   10.716f
 
    S-matrix    2 =    0.83285   0.08313 for L=    5, J=    6.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
@@ -1640,13 +1694,13 @@
    S-matrix    5 =    0.99359   0.01074 for L=    7, J=    8.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.310   0.183 deg. for the L =    7, J =    8.0 channel.
  Final S-matrices (    7.5-) at  0 after  1 accurate to   0.6138 % of J=   20.0 unitarity:   0.99359 +i* 0.01074,
-       7.5  0.99358513  0.01074191i: elastic S-matrix  @@      0.02  0   0 F  0
+       7.5  0.99358513  0.01074191i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     7.5-/ 7 @ 5 =   0.538 , Out:   0.000#   2.119/   8.584/   1.219/   9.246/   0.012    0.505f
 
    S-matrix    6 =    0.99973  -0.00005 for L=    9, J=    8.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -0.001   0.008 deg. for the L =    9, J =    8.0 channel.
  Final S-matrices (    7.5-) at  0 after  1 accurate to   0.1655 % of J=   20.0 unitarity:   0.99973 +i*-0.00005,
-       7.5  0.99972649 -0.00004849i: elastic S-matrix  @@      0.02  0   0 F  0
+       7.5  0.99972649 -0.00004849i: elastic S-matrix  @@      0.03  0   0 F  0
  Reaction Xsec     7.5-/ 9 @ 6 =   0.023 , Out:   0.000#   6.617#   0.025/   0.704/   0.022/   0.073/   0.022f
 
    S-matrix    7 =    0.99972   0.00036 for L=    9, J=    9.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
@@ -1658,7 +1712,7 @@
    S-matrix    8 =    0.99972   0.00082 for L=    9, J=   10.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.023   0.008 deg. for the L =    9, J =   10.0 channel.
  Final S-matrices (    7.5-) at  0 after  1 accurate to   0.1572 % of J=   20.0 unitarity:   0.99972 +i* 0.00082,
-       7.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.00  0   0 F  0
+       7.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     7.5-/ 9 @ 8 =   0.024 , Out:   0.000#   0.885/   0.251/   0.023/   0.354/   0.080/   0.022f
 
    S-matrix    9 =    0.99999  -0.00003 for L=   11, J=   10.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
@@ -1672,7 +1726,7 @@
    S-matrix    1 =    0.96931   0.02449 for L=    6, J=    6.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.724   0.884 deg. for the L =    6, J =    6.0 channel.
  Final S-matrices (    8.5+) at  0 after  1 accurate to   0.4737 % of J=   20.0 unitarity:   0.96931 +i* 0.02449,
-       8.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.14  0   0 F  0
+       8.5  0.96931299  0.02448838i: elastic S-matrix  @@      0.11  0   0 F  0
  Reaction Xsec     8.5+/ 6 @ 1 =   2.858 , Out:   0.000#   1.060/   3.477/   7.356/   0.702/   4.664/   2.840f
 
    S-matrix    2 =    0.96685   0.03597 for L=    6, J=    7.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
@@ -1690,13 +1744,13 @@
    S-matrix    4 =    0.99872   0.00156 for L=    8, J=    8.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.045   0.037 deg. for the L =    8, J =    8.0 channel.
  Final S-matrices (    8.5+) at  0 after  1 accurate to   0.3418 % of J=   20.0 unitarity:   0.99872 +i* 0.00156,
-       8.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.03  0   0 F  0
+       8.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     8.5+/ 8 @ 4 =   0.122 , Out:   0.000#   0.139/   0.504/   2.917/   0.186/   1.260/   0.117f
 
    S-matrix    5 =    0.99870   0.00294 for L=    8, J=    9.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.084   0.037 deg. for the L =    8, J =    9.0 channel.
  Final S-matrices (    8.5+) at  0 after  1 accurate to   0.3022 % of J=   20.0 unitarity:   0.99870 +i* 0.00294,
-       8.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.00  0   0 F  0
+       8.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     8.5+/ 8 @ 5 =   0.124 , Out:   0.000#   0.410/   1.902/   0.284/   2.074/   2.474/   0.117f
 
    S-matrix    6 =    0.99994  -0.00006 for L=   10, J=    9.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
@@ -1708,7 +1762,7 @@
    S-matrix    7 =    0.99994   0.00008 for L=   10, J=   10.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.002   0.002 deg. for the L =   10, J =   10.0 channel.
  Final S-matrices (    8.5+) at  0 after  1 accurate to   0.0622 % of J=   20.0 unitarity:   0.99994 +i* 0.00008,
-       8.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.02  0   0 F  0
+       8.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     8.5+/10 @ 7 =   5.716/, Out:   0.000#   0.010/   0.072/   0.071/   0.087/   0.044/   0.005f
 
    S-matrix    8 =    0.99994   0.00023 for L=   10, J=   11.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
@@ -1728,7 +1782,7 @@
    S-matrix    1 =    0.83285   0.08313 for L=    5, J=    6.0 channel on core I =   2.5 from L=    5,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    2.850   5.098 deg. for the L =    5, J =    6.0 channel.
  Final S-matrices (    8.5-) at  0 after  1 accurate to   0.8893 % of J=   20.0 unitarity:   0.83285 +i* 0.08313,
-       8.5  0.83285232  0.08312984i: elastic S-matrix  @@      0.14  0   0 F  0
+       8.5  0.83285232  0.08312984i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec     8.5-/ 5 @ 1 =  14.301 , Out:   0.000#   0.250/   0.672/   0.018    0.015/   0.599/  14.282f
 
    S-matrix    2 =    0.99417   0.00298 for L=    7, J=    6.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
@@ -1740,7 +1794,7 @@
    S-matrix    3 =    0.99393   0.00657 for L=    7, J=    7.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.189   0.174 deg. for the L =    7, J =    7.0 channel.
  Final S-matrices (    8.5-) at  0 after  1 accurate to   0.6972 % of J=   20.0 unitarity:   0.99393 +i* 0.00657,
-       8.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.02  0   0 F  0
+       8.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     8.5-/ 7 @ 3 =   0.576 , Out:   0.000#   0.143/   1.570/   0.012    0.312/   4.545/   0.557f
 
    S-matrix    4 =    0.99359   0.01074 for L=    7, J=    8.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
@@ -1758,7 +1812,7 @@
    S-matrix    6 =    0.99972   0.00036 for L=    9, J=    9.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.010   0.008 deg. for the L =    9, J =    9.0 channel.
  Final S-matrices (    8.5-) at  0 after  1 accurate to   0.1425 % of J=   20.0 unitarity:   0.99972 +i* 0.00036,
-       8.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.03  0   0 F  0
+       8.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     8.5-/ 9 @ 6 =   0.026 , Out:   0.000#   0.073/   0.278/   0.510/   0.279/   0.322/   0.025f
 
    S-matrix    7 =    0.99972   0.00082 for L=    9, J=   10.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
@@ -1776,7 +1830,7 @@
    S-matrix    9 =    0.99999   0.00002 for L=   11, J=   11.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.001   0.000 deg. for the L =   11, J =   11.0 channel.
  Final S-matrices (    8.5-) at  0 after  1 accurate to   0.0272 % of J=   20.0 unitarity:   0.99999 +i* 0.00002,
-       8.5  0.99998700  0.00001845i: elastic S-matrix  @@      0.02  0   0 F  0
+       8.5  0.99998700  0.00001845i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     8.5-/11 @ 9 =   1.242/, Out:   0.000#   0.025/   9.863#   6.896#   0.014/   3.344#   0.001f
 
 
@@ -1784,25 +1838,25 @@
    S-matrix    1 =    0.96685   0.03597 for L=    6, J=    7.0 channel on core I =   2.5 from L=    6,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    1.065   0.946 deg. for the L =    6, J =    7.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.4689 % of J=   20.0 unitarity:   0.96685 +i* 0.03597,
-       9.5  0.96684983  0.03596774i: elastic S-matrix  @@      0.12  0   0 F  0
+       9.5  0.96684983  0.03596774i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec     9.5+/ 6 @ 1 =   3.391 , Out:   0.000#   0.049/   0.152/   4.575/   3.125#   0.110/   3.386f
 
    S-matrix    2 =    0.99874   0.00034 for L=    8, J=    7.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.010   0.036 deg. for the L =    8, J =    7.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.1520 % of J=   20.0 unitarity:   0.99874 +i* 0.00034,
-       9.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99874487  0.00034387i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5+/ 8 @ 2 =   0.133 , Out:   0.000#   0.062/   0.285/   0.362/   0.053/   0.446/   0.132f
 
    S-matrix    3 =    0.99872   0.00156 for L=    8, J=    8.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.045   0.037 deg. for the L =    8, J =    8.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.3554 % of J=   20.0 unitarity:   0.99872 +i* 0.00156,
-       9.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.03  0   0 F  0
+       9.5  0.99872364  0.00155976i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     9.5+/ 8 @ 3 =   0.135 , Out:   0.000#   0.026/   0.365/   2.993/   0.067/   0.901/   0.131f
 
    S-matrix    4 =    0.99870   0.00294 for L=    8, J=    9.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.084   0.037 deg. for the L =    8, J =    9.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.3320 % of J=   20.0 unitarity:   0.99870 +i* 0.00294,
-       9.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5+/ 8 @ 4 =   0.138 , Out:   0.000#   6.757#   0.353/   0.335/   0.065/   2.068/   0.135f
 
    S-matrix    5 =    0.99994  -0.00006 for L=   10, J=    9.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
@@ -1814,25 +1868,25 @@
    S-matrix    6 =    0.99994   0.00008 for L=   10, J=   10.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.002   0.002 deg. for the L =   10, J =   10.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.0762 % of J=   20.0 unitarity:   0.99994 +i* 0.00008,
-       9.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.03  0   0 F  0
+       9.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5+/10 @ 6 =   6.351/, Out:   0.000#   0.015/   0.066/   0.135/   0.065/   0.069/   0.006f
 
    S-matrix    7 =    0.99994   0.00023 for L=   10, J=   11.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.007   0.002 deg. for the L =   10, J =   11.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.0871 % of J=   20.0 unitarity:   0.99994 +i* 0.00023,
-       9.5  0.99993992  0.00023358i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99993992  0.00023358i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5+/10 @ 7 =   6.373/, Out:   0.000#   0.340#   0.128/   0.011/   0.156/   0.069/   0.006f
 
    S-matrix    8 =    1.00000  -0.00001 for L=   12, J=   11.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =   -0.000   0.000 deg. for the L =   12, J =   11.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.0183 % of J=   20.0 unitarity:   1.00000 +i*-0.00001,
-       9.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.02  0   0 F  0
+       9.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     9.5+/12 @ 8 =   0.299/, Out:   0.000#   1.296#   0.148#   7.553#   0.376#   0.823#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   12, J=   12.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   12, J =   12.0 channel.
  Final S-matrices (    9.5+) at  0 after  1 accurate to   0.0134 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-       9.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5+/12 @ 9 =   0.299/, Out:   0.000#   5.591#   2.589#   1.917#   3.521#   0.789#   0.000f
 
 
@@ -1840,7 +1894,7 @@
    S-matrix    1 =    0.99393   0.00657 for L=    7, J=    7.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.189   0.174 deg. for the L =    7, J =    7.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.2348 % of J=   20.0 unitarity:   0.99393 +i* 0.00657,
-       9.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.12  0   0 F  0
+       9.5  0.99392571  0.00656921i: elastic S-matrix  @@      0.11  0   0 F  0
  Reaction Xsec     9.5-/ 7 @ 1 =   0.640 , Out:   0.000#   0.209/   0.785/   1.577/   0.151/   1.059/   0.637f
 
    S-matrix    2 =    0.99359   0.01074 for L=    7, J=    8.0 channel on core I =   2.5 from L=    7,  Acc. loss =  0.0 D.
@@ -1852,25 +1906,25 @@
    S-matrix    3 =    0.99973  -0.00005 for L=    9, J=    8.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.001   0.008 deg. for the L =    9, J =    8.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.2211 % of J=   20.0 unitarity:   0.99973 +i*-0.00005,
-       9.5  0.99972649 -0.00004849i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99972649 -0.00004849i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5-/ 9 @ 3 =   0.029 , Out:   0.000#   2.146#   0.145/   1.082/   0.026/   0.013/   0.028f
 
    S-matrix    4 =    0.99972   0.00036 for L=    9, J=    9.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.010   0.008 deg. for the L =    9, J =    9.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.1793 % of J=   20.0 unitarity:   0.99972 +i* 0.00036,
-       9.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.02  0   0 F  0
+       9.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     9.5-/ 9 @ 4 =   0.029 , Out:   0.000#   0.030/   0.120/   0.743/   0.046/   0.254/   0.028f
 
    S-matrix    5 =    0.99972   0.00082 for L=    9, J=   10.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.023   0.008 deg. for the L =    9, J =   10.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.1504 % of J=   20.0 unitarity:   0.99972 +i* 0.00082,
-       9.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5-/ 9 @ 5 =   0.029 , Out:   0.000#   0.083/   0.441/   0.067/   0.477/   0.521/   0.028f
 
    S-matrix    6 =    0.99999  -0.00003 for L=   11, J=   10.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -0.001   0.000 deg. for the L =   11, J =   10.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.0486 % of J=   20.0 unitarity:   0.99999 +i*-0.00003,
-       9.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.02  0   0 F  0
+       9.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     9.5-/11 @ 6 =   1.378/, Out:   0.000#   0.231#   1.882#   0.052/   1.651#   3.395#   0.001f
 
    S-matrix    7 =    0.99999   0.00002 for L=   11, J=   11.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
@@ -1882,13 +1936,13 @@
    S-matrix    8 =    0.99999   0.00007 for L=   11, J=   12.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.002   0.000 deg. for the L =   11, J =   12.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.0378 % of J=   20.0 unitarity:   0.99999 +i* 0.00007,
-       9.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.00  0   0 F  0
+       9.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec     9.5-/11 @ 8 =   1.382/, Out:   0.000#   0.044/   0.017/   1.438#   0.023/   4.476#   0.001f
 
    S-matrix    9 =    1.00000  -0.00000 for L=   13, J=   12.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =   -0.000   0.000 deg. for the L =   13, J =   12.0 channel.
  Final S-matrices (    9.5-) at  0 after  1 accurate to   0.0055 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-       9.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.02  0   0 F  0
+       9.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec     9.5-/13 @ 9 =   0.065/, Out:   0.000#   0.002#   0.190#   0.753#   0.299#   0.116#   0.000f
 
 
@@ -1908,13 +1962,13 @@
    S-matrix    3 =    0.99994  -0.00006 for L=   10, J=    9.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.002   0.002 deg. for the L =   10, J =    9.0 channel.
  Final S-matrices (   10.5+) at  0 after  1 accurate to   0.1155 % of J=   20.0 unitarity:   0.99994 +i*-0.00006,
-      10.5  0.99994034 -0.00005501i: elastic S-matrix  @@      0.02  0   0 F  0
+      10.5  0.99994034 -0.00005501i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    10.5+/10 @ 3 =   6.964/, Out:   0.000#   0.373#   0.035/   0.276/   5.736#   3.057#   0.007f
 
    S-matrix    4 =    0.99994   0.00008 for L=   10, J=   10.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.002   0.002 deg. for the L =   10, J =   10.0 channel.
  Final S-matrices (   10.5+) at  0 after  1 accurate to   0.0943 % of J=   20.0 unitarity:   0.99994 +i* 0.00008,
-      10.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.00  0   0 F  0
+      10.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    10.5+/10 @ 4 =   6.986/, Out:   0.000#   6.428#   0.029/   0.191/   0.012/   0.052/   0.007f
 
    S-matrix    5 =    0.99994   0.00023 for L=   10, J=   11.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
@@ -1938,13 +1992,13 @@
    S-matrix    8 =    1.00000   0.00002 for L=   12, J=   13.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.001   0.000 deg. for the L =   12, J =   13.0 channel.
  Final S-matrices (   10.5+) at  0 after  1 accurate to   0.0186 % of J=   20.0 unitarity:   1.00000 +i* 0.00002,
-      10.5  0.99999718  0.00002050i: elastic S-matrix  @@      0.02  0   0 F  0
+      10.5  0.99999718  0.00002050i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    10.5+/12 @ 8 =   0.329/, Out:   0.000#   0.010/   4.354#   0.358#   5.676#   1.038#   0.000f
 
    S-matrix    9 =    1.00000  -0.00000 for L=   14, J=   13.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =   -0.000   0.000 deg. for the L =   14, J =   13.0 channel.
  Final S-matrices (   10.5+) at  0 after  1 accurate to   0.0030 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      10.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.00  0   0 F  0
+      10.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    10.5+/14 @ 9 =   0.015/, Out:   0.000#   0.000#   0.050#   0.214#   0.078#   0.027#   0.000f
 
 
@@ -1970,37 +2024,37 @@
    S-matrix    4 =    0.99972   0.00082 for L=    9, J=   10.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.023   0.008 deg. for the L =    9, J =   10.0 channel.
  Final S-matrices (   10.5-) at  0 after  1 accurate to   0.1543 % of J=   20.0 unitarity:   0.99972 +i* 0.00082,
-      10.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.03  0   0 F  0
+      10.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    10.5-/ 9 @ 4 =   0.032 , Out:   0.000#   1.353#   0.079/   0.078/   0.013/   0.418/   0.032f
 
    S-matrix    5 =    0.99999  -0.00003 for L=   11, J=   10.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -0.001   0.000 deg. for the L =   11, J =   10.0 channel.
  Final S-matrices (   10.5-) at  0 after  1 accurate to   0.0601 % of J=   20.0 unitarity:   0.99999 +i*-0.00003,
-      10.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.00  0   0 F  0
+      10.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    10.5-/11 @ 5 =   1.516/, Out:   0.000#   2.454#   8.411#   0.074/   5.539#   2.510#   0.001f
 
    S-matrix    6 =    0.99999   0.00002 for L=   11, J=   11.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.001   0.000 deg. for the L =   11, J =   11.0 channel.
  Final S-matrices (   10.5-) at  0 after  1 accurate to   0.0407 % of J=   20.0 unitarity:   0.99999 +i* 0.00002,
-      10.5  0.99998700  0.00001845i: elastic S-matrix  @@      0.00  0   0 F  0
+      10.5  0.99998700  0.00001845i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    10.5-/11 @ 6 =   1.518/, Out:   0.000#   2.979#   0.016/   0.036/   0.015/   0.015/   0.001f
 
    S-matrix    7 =    0.99999   0.00007 for L=   11, J=   12.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.002   0.000 deg. for the L =   11, J =   12.0 channel.
  Final S-matrices (   10.5-) at  0 after  1 accurate to   0.0444 % of J=   20.0 unitarity:   0.99999 +i* 0.00007,
-      10.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.03  0   0 F  0
+      10.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    10.5-/11 @ 7 =   1.520/, Out:   0.000#   0.084#   0.032/   2.794#   0.038/   0.015/   0.001f
 
    S-matrix    8 =    1.00000  -0.00000 for L=   13, J=   12.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =   -0.000   0.000 deg. for the L =   13, J =   12.0 channel.
  Final S-matrices (   10.5-) at  0 after  1 accurate to   0.0100 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      10.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.00  0   0 F  0
+      10.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    10.5-/13 @ 8 =   0.071/, Out:   0.000#   0.308#   0.036#   2.087#   0.097#   0.186#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   13, J=   13.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   13, J =   13.0 channel.
  Final S-matrices (   10.5-) at  0 after  1 accurate to   0.0066 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      10.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.02  0   0 F  0
+      10.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    10.5-/13 @ 9 =   0.071/, Out:   0.000#   1.275#   0.679#   0.531#   0.898#   0.185#   0.000f
 
 
@@ -2008,13 +2062,13 @@
    S-matrix    1 =    0.99870   0.00294 for L=    8, J=    9.0 channel on core I =   2.5 from L=    8,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.084   0.037 deg. for the L =    8, J =    9.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.1189 % of J=   20.0 unitarity:   0.99870 +i* 0.00294,
-      11.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.12  0   0 F  0
+      11.5  0.99869562  0.00293968i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec    11.5+/ 8 @ 1 =   0.165 , Out:   0.000#   1.742#   7.018#   0.259/   0.112#   3.263#   0.165f
 
    S-matrix    2 =    0.99994  -0.00006 for L=   10, J=    9.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =   -0.002   0.002 deg. for the L =   10, J =    9.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.0352 % of J=   20.0 unitarity:   0.99994 +i*-0.00006,
-      11.5  0.99994034 -0.00005501i: elastic S-matrix  @@      0.00  0   0 F  0
+      11.5  0.99994034 -0.00005501i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    11.5+/10 @ 2 =   7.597/, Out:   0.000#   2.798#   0.016/   0.018/   2.615#   0.021/   0.008f
 
    S-matrix    3 =    0.99994   0.00008 for L=   10, J=   10.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
@@ -2032,31 +2086,31 @@
    S-matrix    5 =    1.00000  -0.00001 for L=   12, J=   11.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -0.000   0.000 deg. for the L =   12, J =   11.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.0319 % of J=   20.0 unitarity:   1.00000 +i*-0.00001,
-      11.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.00  0   0 F  0
+      11.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    11.5+/12 @ 5 =   0.359/, Out:   0.000#   0.546#   2.152#   0.020/   1.381#   0.564#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   12, J=   12.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   12, J =   12.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.0217 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      11.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.02  0   0 F  0
+      11.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    11.5+/12 @ 6 =   0.359/, Out:   0.000#   0.621#   3.870#   9.572#   3.686#   3.151#   0.000f
 
    S-matrix    7 =    1.00000   0.00002 for L=   12, J=   13.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.001   0.000 deg. for the L =   12, J =   13.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.0227 % of J=   20.0 unitarity:   1.00000 +i* 0.00002,
-      11.5  0.99999718  0.00002050i: elastic S-matrix  @@      0.00  0   0 F  0
+      11.5  0.99999718  0.00002050i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    11.5+/12 @ 7 =   0.359/, Out:   0.000#   0.020#   7.957#   0.687#   9.259#   3.411#   0.000f
 
    S-matrix    8 =    1.00000  -0.00000 for L=   14, J=   13.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =   -0.000   0.000 deg. for the L =   14, J =   13.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.0054 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      11.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.02  0   0 F  0
+      11.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    11.5+/14 @ 8 =   0.017/, Out:   0.000#   0.073#   0.009#   0.580#   0.025#   0.042#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   14, J=   14.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   14, J =   14.0 channel.
  Final S-matrices (   11.5+) at  0 after  1 accurate to   0.0033 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      11.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.00  0   0 F  0
+      11.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    11.5+/14 @ 9 =   0.017/, Out:   0.000#   0.292#   0.178#   0.149#   0.230#   0.043#   0.000f
 
 
@@ -2064,7 +2118,7 @@
    S-matrix    1 =    0.99972   0.00036 for L=    9, J=    9.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.010   0.008 deg. for the L =    9, J =    9.0 channel.
  Final S-matrices (   11.5-) at  0 after  1 accurate to   0.0552 % of J=   20.0 unitarity:   0.99972 +i* 0.00036,
-      11.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.14  0   0 F  0
+      11.5  0.99972452  0.00036116i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    11.5-/ 9 @ 1 =   0.035 , Out:   0.000#   8.624#   0.043/   0.078/   7.206#   0.051/   0.035f
 
    S-matrix    2 =    0.99972   0.00082 for L=    9, J=   10.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
@@ -2076,19 +2130,19 @@
    S-matrix    3 =    0.99999  -0.00003 for L=   11, J=   10.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.001   0.000 deg. for the L =   11, J =   10.0 channel.
  Final S-matrices (   11.5-) at  0 after  1 accurate to   0.0605 % of J=   20.0 unitarity:   0.99999 +i*-0.00003,
-      11.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.03  0   0 F  0
+      11.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    11.5-/11 @ 3 =   1.653/, Out:   0.000#   0.067#   8.537#   0.071/   1.267#   0.753#   0.002f
 
    S-matrix    4 =    0.99999   0.00002 for L=   11, J=   11.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.001   0.000 deg. for the L =   11, J =   11.0 channel.
  Final S-matrices (   11.5-) at  0 after  1 accurate to   0.0497 % of J=   20.0 unitarity:   0.99999 +i* 0.00002,
-      11.5  0.99998700  0.00001845i: elastic S-matrix  @@      0.00  0   0 F  0
+      11.5  0.99998700  0.00001845i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    11.5-/11 @ 4 =   1.656/, Out:   0.000#   1.406#   7.134#   0.050/   2.900#   0.011/   0.002f
 
    S-matrix    5 =    0.99999   0.00007 for L=   11, J=   12.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.002   0.000 deg. for the L =   11, J =   12.0 channel.
  Final S-matrices (   11.5-) at  0 after  1 accurate to   0.0377 % of J=   20.0 unitarity:   0.99999 +i* 0.00007,
-      11.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.02  0   0 F  0
+      11.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    11.5-/11 @ 5 =   1.658/, Out:   0.000#   3.621#   0.025/   3.874#   0.026/   0.024/   0.002f
 
    S-matrix    6 =    1.00000  -0.00000 for L=   13, J=   12.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
@@ -2120,19 +2174,19 @@
    S-matrix    1 =    0.99994   0.00008 for L=   10, J=   10.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.002   0.002 deg. for the L =   10, J =   10.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0266 % of J=   20.0 unitarity:   0.99994 +i* 0.00008,
-      12.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.11  0   0 F  0
+      12.5  0.99994016  0.00008231i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    12.5+/10 @ 1 =   8.256/, Out:   0.000#   1.810#   0.010/   0.018/   1.612#   0.011/   0.008f
 
    S-matrix    2 =    0.99994   0.00023 for L=   10, J=   11.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.007   0.002 deg. for the L =   10, J =   11.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0643 % of J=   20.0 unitarity:   0.99994 +i* 0.00023,
-      12.5  0.99993992  0.00023358i: elastic S-matrix  @@      0.03  0   0 F  0
+      12.5  0.99993992  0.00023358i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    12.5+/10 @ 2 =   8.285/, Out:   0.000#   0.750#   0.774#   0.018/   0.083#   0.065/   0.008f
 
    S-matrix    3 =    1.00000  -0.00001 for L=   12, J=   11.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.000   0.000 deg. for the L =   12, J =   11.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0317 % of J=   20.0 unitarity:   1.00000 +i*-0.00001,
-      12.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.00  0   0 F  0
+      12.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5+/12 @ 3 =   0.389/, Out:   0.000#   0.012#   2.099#   0.018/   0.276#   0.183#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   12, J=   12.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
@@ -2144,25 +2198,25 @@
    S-matrix    5 =    1.00000   0.00002 for L=   12, J=   13.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.001   0.000 deg. for the L =   12, J =   13.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0190 % of J=   20.0 unitarity:   1.00000 +i* 0.00002,
-      12.5  0.99999718  0.00002050i: elastic S-matrix  @@      0.00  0   0 F  0
+      12.5  0.99999718  0.00002050i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5+/12 @ 5 =   0.389/, Out:   0.000#   0.776#   6.161#   0.945#   6.235#   5.050#   0.000f
 
    S-matrix    6 =    1.00000  -0.00000 for L=   14, J=   13.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -0.000   0.000 deg. for the L =   14, J =   13.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0076 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      12.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.02  0   0 F  0
+      12.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    12.5+/14 @ 6 =   0.018/, Out:   0.000#   0.002#   0.037#   1.039#   0.032#   0.036#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   14, J=   14.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   14, J =   14.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0045 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      12.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.00  0   0 F  0
+      12.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5+/14 @ 7 =   0.018/, Out:   0.000#   0.035#   0.286#   0.393#   0.318#   0.115#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   14, J=   15.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   14, J =   15.0 channel.
  Final S-matrices (   12.5+) at  0 after  1 accurate to   0.0046 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      12.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.03  0   0 F  0
+      12.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5+/14 @ 8 =   0.018/, Out:   0.000#   0.526#   0.292#   0.025#   0.361#   0.055#   0.000f
 
    S-matrix    9 =    1.00000  -0.00000 for L=   16, J=   15.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
@@ -2176,13 +2230,13 @@
    S-matrix    1 =    0.99972   0.00082 for L=    9, J=   10.0 channel on core I =   2.5 from L=    9,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.023   0.008 deg. for the L =    9, J =   10.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0600 % of J=   20.0 unitarity:   0.99972 +i* 0.00082,
-      12.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.14  0   0 F  0
+      12.5  0.99972202  0.00081795i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    12.5-/ 9 @ 1 =   0.038 , Out:   0.000#   0.344#   1.570#   0.062/   0.022#   0.583#   0.038f
 
    S-matrix    2 =    0.99999  -0.00003 for L=   11, J=   10.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =   -0.001   0.000 deg. for the L =   11, J =   10.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0168 % of J=   20.0 unitarity:   0.99999 +i*-0.00003,
-      12.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.02  0   0 F  0
+      12.5  0.99998702 -0.00002732i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    12.5-/11 @ 2 =   1.791/, Out:   0.000#   0.605#   4.012#   4.225#   0.592#   4.494#   0.002f
 
    S-matrix    3 =    0.99999   0.00002 for L=   11, J=   11.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
@@ -2194,37 +2248,37 @@
    S-matrix    4 =    0.99999   0.00007 for L=   11, J=   12.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.002   0.000 deg. for the L =   11, J =   12.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0336 % of J=   20.0 unitarity:   0.99999 +i* 0.00007,
-      12.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.00  0   0 F  0
+      12.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5-/11 @ 4 =   1.796/, Out:   0.000#   0.058#   4.298#   4.488#   0.608#   0.018/   0.002f
 
    S-matrix    5 =    1.00000  -0.00000 for L=   13, J=   12.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -0.000   0.000 deg. for the L =   13, J =   12.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0170 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      12.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.02  0   0 F  0
+      12.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    12.5-/13 @ 5 =   0.084/, Out:   0.000#   0.122#   0.551#   5.189#   0.345#   0.128#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   13, J=   13.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   13, J =   13.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0116 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      12.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.00  0   0 F  0
+      12.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5-/13 @ 6 =   0.084/, Out:   0.000#   0.132#   0.954#   2.556#   0.889#   0.684#   0.000f
 
    S-matrix    7 =    1.00000   0.00001 for L=   13, J=   14.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   13, J =   14.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0116 % of J=   20.0 unitarity:   1.00000 +i* 0.00001,
-      12.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.02  0   0 F  0
+      12.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    12.5-/13 @ 7 =   0.084/, Out:   0.000#   0.005#   2.005#   0.172#   2.271#   0.762#   0.000f
 
    S-matrix    8 =    1.00000  -0.00000 for L=   15, J=   14.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =   -0.000   0.000 deg. for the L =   15, J =   14.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0029 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      12.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.00  0   0 F  0
+      12.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    12.5-/15 @ 8 =   3.911#, Out:   0.000#   0.017#   0.002#   0.161#   0.006#   0.009#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   15, J=   15.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   15, J =   15.0 channel.
  Final S-matrices (   12.5-) at  0 after  1 accurate to   0.0017 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      12.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.02  0   0 F  0
+      12.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    12.5-/15 @ 9 =   3.912#, Out:   0.000#   0.067#   0.047#   0.041#   0.059#   0.010#   0.000f
 
 
@@ -2232,19 +2286,19 @@
    S-matrix    1 =    0.99994   0.00023 for L=   10, J=   11.0 channel on core I =   2.5 from L=   10,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.007   0.002 deg. for the L =   10, J =   11.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0304 % of J=   20.0 unitarity:   0.99994 +i* 0.00023,
-      13.5  0.99993992  0.00023358i: elastic S-matrix  @@      0.14  0   0 F  0
+      13.5  0.99993992  0.00023358i: elastic S-matrix  @@      0.11  0   0 F  0
  Reaction Xsec    13.5+/10 @ 1 =   8.922/, Out:   0.000#   0.070#   0.359#   0.015/   0.004#   0.108#   0.009f
 
    S-matrix    2 =    1.00000  -0.00001 for L=   12, J=   11.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =   -0.000   0.000 deg. for the L =   12, J =   11.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0080 % of J=   20.0 unitarity:   1.00000 +i*-0.00001,
-      13.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.00  0   0 F  0
+      13.5  0.99999718 -0.00001112i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    13.5+/12 @ 2 =   0.419/, Out:   0.000#   0.132#   0.990#   0.999#   0.131#   0.958#   0.000f
 
    S-matrix    3 =    1.00000   0.00000 for L=   12, J=   12.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   12, J =   12.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0258 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      13.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.02  0   0 F  0
+      13.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    13.5+/12 @ 3 =   0.419/, Out:   0.000#   0.038#   1.233#   0.012/   0.159#   1.590#   0.000f
 
    S-matrix    4 =    1.00000   0.00002 for L=   12, J=   13.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
@@ -2256,31 +2310,31 @@
    S-matrix    5 =    1.00000  -0.00000 for L=   14, J=   13.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -0.000   0.000 deg. for the L =   14, J =   13.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0090 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      13.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.00  0   0 F  0
+      13.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    13.5+/14 @ 5 =   0.020/, Out:   0.000#   0.027#   0.141#   1.390#   0.087#   0.028#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   14, J=   14.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   14, J =   14.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0062 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      13.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.02  0   0 F  0
+      13.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    13.5+/14 @ 6 =   0.020/, Out:   0.000#   0.028#   0.237#   0.688#   0.217#   0.150#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   14, J=   15.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   14, J =   15.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0059 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      13.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.00  0   0 F  0
+      13.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    13.5+/14 @ 7 =   0.020/, Out:   0.000#   0.001#   0.508#   0.047#   0.563#   0.171#   0.000f
 
    S-matrix    8 =    1.00000  -0.00000 for L=   16, J=   15.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =   -0.000   0.000 deg. for the L =   16, J =   15.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0016 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      13.5  0.99999999 -0.00000016i: elastic S-matrix  @@      0.02  0   0 F  0
+      13.5  0.99999999 -0.00000016i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    13.5+/16 @ 8 =   0.906#, Out:   0.000#   0.004#   0.001#   0.045#   0.002#   0.002#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   16, J=   16.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   16, J =   16.0 channel.
  Final S-matrices (   13.5+) at  0 after  1 accurate to   0.0009 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      13.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.00  0   0 F  0
+      13.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    13.5+/16 @ 9 =   0.906#, Out:   0.000#   0.016#   0.012#   0.012#   0.015#   0.003#   0.000f
 
 
@@ -2294,13 +2348,13 @@
    S-matrix    2 =    0.99999   0.00007 for L=   11, J=   12.0 channel on core I =   2.5 from L=   11,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.002   0.000 deg. for the L =   11, J =   12.0 channel.
  Final S-matrices (   13.5-) at  0 after  1 accurate to   0.0300 % of J=   20.0 unitarity:   0.99999 +i* 0.00007,
-      13.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.02  0   0 F  0
+      13.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    13.5-/11 @ 2 =   1.934/, Out:   0.000#   0.158#   0.192#   4.474#   0.021#   0.013/   0.002f
 
    S-matrix    3 =    1.00000  -0.00000 for L=   13, J=   12.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.000   0.000 deg. for the L =   13, J =   12.0 channel.
  Final S-matrices (   13.5-) at  0 after  1 accurate to   0.0167 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      13.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.02  0   0 F  0
+      13.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    13.5-/13 @ 3 =   0.091/, Out:   0.000#   0.002#   0.520#   4.788#   0.063#   0.044#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   13, J=   13.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
@@ -2312,25 +2366,25 @@
    S-matrix    5 =    1.00000   0.00001 for L=   13, J=   14.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   13, J =   14.0 channel.
  Final S-matrices (   13.5-) at  0 after  1 accurate to   0.0096 % of J=   20.0 unitarity:   1.00000 +i* 0.00001,
-      13.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.02  0   0 F  0
+      13.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.03  0   0 F  0
  Reaction Xsec    13.5-/13 @ 5 =   0.091/, Out:   0.000#   0.168#   1.517#   0.236#   1.496#   1.092#   0.000f
 
    S-matrix    6 =    1.00000  -0.00000 for L=   15, J=   14.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -0.000   0.000 deg. for the L =   15, J =   14.0 channel.
  Final S-matrices (   13.5-) at  0 after  1 accurate to   0.0041 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      13.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.00  0   0 F  0
+      13.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    13.5-/15 @ 6 =   4.212#, Out:   0.000#   0.000#   0.010#   0.284#   0.008#   0.007#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   15, J=   15.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   15, J =   15.0 channel.
  Final S-matrices (   13.5-) at  0 after  1 accurate to   0.0024 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      13.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.03  0   0 F  0
+      13.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    13.5-/15 @ 7 =   4.212#, Out:   0.000#   0.008#   0.073#   0.108#   0.079#   0.025#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   15, J=   16.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   15, J =   16.0 channel.
  Final S-matrices (   13.5-) at  0 after  1 accurate to   0.0024 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      13.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.00  0   0 F  0
+      13.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    13.5-/15 @ 8 =   4.213#, Out:   0.000#   0.121#   0.076#   0.006#   0.092#   0.012#   0.000f
 
    S-matrix    9 =    1.00000  -0.00000 for L=   17, J=   16.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
@@ -2344,7 +2398,7 @@
    S-matrix    1 =    1.00000   0.00000 for L=   12, J=   12.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   12, J =   12.0 channel.
  Final S-matrices (   14.5+) at  0 after  1 accurate to   0.0064 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.11  0   0 F  0
+      14.5  0.99999718  0.00000405i: elastic S-matrix  @@      0.08  0   0 F  0
  Reaction Xsec    14.5+/12 @ 1 =   0.449/, Out:   0.000#   0.083#   0.612#   1.042#   0.082#   0.527#   0.000f
 
    S-matrix    2 =    1.00000   0.00002 for L=   12, J=   13.0 channel on core I =   2.5 from L=   12,  Acc. loss =  0.0 D.
@@ -2356,19 +2410,19 @@
    S-matrix    3 =    1.00000  -0.00000 for L=   14, J=   13.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.000   0.000 deg. for the L =   14, J =   13.0 channel.
  Final S-matrices (   14.5+) at  0 after  1 accurate to   0.0088 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      14.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.00  0   0 F  0
+      14.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    14.5+/14 @ 3 =   0.021/, Out:   0.000#   0.000#   0.130#   1.263#   0.015#   0.010#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   14, J=   14.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   14, J =   14.0 channel.
  Final S-matrices (   14.5+) at  0 after  1 accurate to   0.0073 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5+/14 @ 4 =   0.021/, Out:   0.000#   0.015#   0.112#   0.906#   0.047#   0.103#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   14, J=   15.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   14, J =   15.0 channel.
  Final S-matrices (   14.5+) at  0 after  1 accurate to   0.0049 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5+/14 @ 5 =   0.021/, Out:   0.000#   0.037#   0.377#   0.064#   0.364#   0.238#   0.000f
 
    S-matrix    6 =    1.00000  -0.00000 for L=   16, J=   15.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
@@ -2386,13 +2440,13 @@
    S-matrix    8 =    1.00000   0.00000 for L=   16, J=   17.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   16, J =   17.0 channel.
  Final S-matrices (   14.5+) at  0 after  1 accurate to   0.0012 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.00  0   0 F  0
+      14.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    14.5+/16 @ 8 =   0.970#, Out:   0.000#   0.028#   0.020#   0.002#   0.023#   0.003#   0.000f
 
    S-matrix    9 =    1.00000  -0.00000 for L=   18, J=   17.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =   -0.000   0.000 deg. for the L =   18, J =   17.0 channel.
  Final S-matrices (   14.5+) at  0 after  1 accurate to   0.0003 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      14.5  1.00000000 -0.00000000i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  1.00000000 -0.00000000i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5+/18 @ 9 =   0.045#, Out:   0.000#   0.000#   0.000#   0.002#   0.000#   0.000#   0.000f
 
 
@@ -2402,31 +2456,31 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.2 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0155 % of J=   20.0 unitarity:   0.99999 +i* 0.00007,
-      14.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.14  0   0 F  0
+      14.5  0.99998698  0.00006840i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    14.5-/11 @ 1 =   2.073/, Out:   0.000#   0.014#   0.084#   3.728#   0.001#   0.019#   0.002f
 
    S-matrix    2 =    1.00000  -0.00000 for L=   13, J=   12.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =   -0.000   0.000 deg. for the L =   13, J =   12.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0038 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      14.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  0.99999939 -0.00000413i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5-/13 @ 2 =   0.097/, Out:   0.000#   0.029#   0.246#   0.243#   0.030#   0.208#   0.000f
 
    S-matrix    3 =    1.00000   0.00000 for L=   13, J=   13.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   13, J =   13.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0135 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.00  0   0 F  0
+      14.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    14.5-/13 @ 3 =   0.097/, Out:   0.000#   0.008#   0.305#   3.122#   0.037#   0.336#   0.000f
 
    S-matrix    4 =    1.00000   0.00001 for L=   13, J=   14.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   13, J =   14.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0074 % of J=   20.0 unitarity:   1.00000 +i* 0.00001,
-      14.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5-/13 @ 4 =   0.097/, Out:   0.000#   0.003#   0.247#   0.271#   0.029#   0.765#   0.000f
 
    S-matrix    5 =    1.00000  -0.00000 for L=   15, J=   14.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -0.000   0.000 deg. for the L =   15, J =   14.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0048 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      14.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5-/15 @ 5 =   4.513#, Out:   0.000#   0.006#   0.036#   0.374#   0.022#   0.006#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   15, J=   15.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
@@ -2438,19 +2492,19 @@
    S-matrix    7 =    1.00000   0.00000 for L=   15, J=   16.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   15, J =   16.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0030 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5-/15 @ 7 =   4.514#, Out:   0.000#   0.000#   0.129#   0.012#   0.140#   0.037#   0.000f
 
    S-matrix    8 =    1.00000  -0.00000 for L=   17, J=   16.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =   -0.000   0.000 deg. for the L =   17, J =   16.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0008 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      14.5  1.00000000 -0.00000004i: elastic S-matrix  @@      0.00  0   0 F  0
+      14.5  1.00000000 -0.00000004i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    14.5-/17 @ 8 =   0.208#, Out:   0.000#   0.001#   0.000#   0.013#   0.000#   0.001#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   17, J=   17.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   17, J =   17.0 channel.
  Final S-matrices (   14.5-) at  0 after  1 accurate to   0.0005 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      14.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.02  0   0 F  0
+      14.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    14.5-/17 @ 9 =   0.208#, Out:   0.000#   0.004#   0.003#   0.004#   0.004#   0.001#   0.000f
 
 
@@ -2464,37 +2518,37 @@
    S-matrix    2 =    1.00000  -0.00000 for L=   14, J=   13.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =   -0.000   0.000 deg. for the L =   14, J =   13.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0018 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      15.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  0.99999987 -0.00000146i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5+/14 @ 2 =   0.022/, Out:   0.000#   0.006#   0.062#   0.062#   0.007#   0.045#   0.000f
 
    S-matrix    3 =    1.00000   0.00000 for L=   14, J=   14.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   14, J =   14.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0071 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.03  0   0 F  0
+      15.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5+/14 @ 3 =   0.022/, Out:   0.000#   0.002#   0.076#   0.819#   0.009#   0.072#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   14, J=   15.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   14, J =   15.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0035 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  0.99999987  0.00000196i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5+/14 @ 4 =   0.022/, Out:   0.000#   0.001#   0.060#   0.073#   0.007#   0.163#   0.000f
 
    S-matrix    5 =    1.00000  -0.00000 for L=   16, J=   15.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =   -0.000   0.000 deg. for the L =   16, J =   15.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0025 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      15.5  0.99999999 -0.00000016i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  0.99999999 -0.00000016i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5+/16 @ 5 =   1.035#, Out:   0.000#   0.001#   0.009#   0.101#   0.006#   0.001#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   16, J=   16.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   16, J =   16.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0018 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.02  0   0 F  0
+      15.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5+/16 @ 6 =   1.035#, Out:   0.000#   0.001#   0.015#   0.051#   0.013#   0.008#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   16, J=   17.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   16, J =   17.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0016 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.02  0   0 F  0
+      15.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5+/16 @ 7 =   1.035#, Out:   0.000#   0.000#   0.033#   0.004#   0.035#   0.009#   0.000f
 
    S-matrix    8 =    1.00000  -0.00000 for L=   18, J=   17.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
@@ -2506,7 +2560,7 @@
    S-matrix    9 =    1.00000   0.00000 for L=   18, J=   18.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   18, J =   18.0 channel.
  Final S-matrices (   15.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5+/18 @ 9 =   0.048#, Out:   0.000#   0.001#   0.001#   0.001#   0.001#   0.000#   0.000f
 
 
@@ -2514,55 +2568,55 @@
    S-matrix    1 =    1.00000   0.00000 for L=   13, J=   13.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   13, J =   13.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0033 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.14  0   0 F  0
+      15.5  0.99999939  0.00000087i: elastic S-matrix  @@      0.16  0   0 F  0
  Reaction Xsec    15.5-/13 @ 1 =   0.104/, Out:   0.000#   0.018#   0.151#   0.258#   0.019#   0.116#   0.000f
 
    S-matrix    2 =    1.00000   0.00001 for L=   13, J=   14.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.000   0.000 deg. for the L =   13, J =   14.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0065 % of J=   20.0 unitarity:   1.00000 +i* 0.00001,
-      15.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.02  0   0 F  0
+      15.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5-/13 @ 2 =   0.104/, Out:   0.000#   0.007#   0.012#   0.272#   0.001#   0.569#   0.000f
 
    S-matrix    3 =    1.00000  -0.00000 for L=   15, J=   14.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.000   0.000 deg. for the L =   15, J =   14.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0047 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      15.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  0.99999997 -0.00000049i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5-/15 @ 3 =   4.814#, Out:   0.000#   0.000#   0.033#   0.336#   0.003#   0.002#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   15, J=   15.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   15, J =   15.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0039 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.02  0   0 F  0
+      15.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5-/15 @ 4 =   4.814#, Out:   0.000#   0.003#   0.028#   0.242#   0.012#   0.021#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   15, J=   16.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   15, J =   16.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0025 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5-/15 @ 5 =   4.814#, Out:   0.000#   0.008#   0.094#   0.017#   0.089#   0.050#   0.000f
 
    S-matrix    6 =    1.00000  -0.00000 for L=   17, J=   16.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -0.000   0.000 deg. for the L =   17, J =   16.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0012 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      15.5  1.00000000 -0.00000004i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  1.00000000 -0.00000004i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5-/17 @ 6 =   0.222#, Out:   0.000#   0.000#   0.001#   0.022#   0.001#   0.001#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   17, J=   17.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   17, J =   17.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0007 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.03  0   0 F  0
+      15.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5-/17 @ 7 =   0.222#, Out:   0.000#   0.000#   0.005#   0.009#   0.005#   0.002#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   17, J=   18.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   17, J =   18.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0007 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.00  0   0 F  0
+      15.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    15.5-/17 @ 8 =   0.222#, Out:   0.000#   0.007#   0.005#   0.001#   0.006#   0.001#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   19, J=   18.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   19, J =   18.0 channel.
  Final S-matrices (   15.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      15.5  1.00000000  0.00000000i: elastic S-matrix  @@      0.02  0   0 F  0
+      15.5  1.00000000  0.00000000i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    15.5-/19 @ 9 =   0.010#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
 
@@ -2570,7 +2624,7 @@
    S-matrix    1 =    1.00000   0.00000 for L=   14, J=   14.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   14, J =   14.0 channel.
  Final S-matrices (   16.5+) at  0 after  1 accurate to   0.0017 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      16.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.14  0   0 F  0
+      16.5  0.99999987  0.00000019i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    16.5+/14 @ 1 =   0.024/, Out:   0.000#   0.004#   0.038#   0.069#   0.005#   0.026#   0.000f
 
    S-matrix    2 =    1.00000   0.00000 for L=   14, J=   15.0 channel on core I =   2.5 from L=   14,  Acc. loss =  0.0 D.
@@ -2594,13 +2648,13 @@
    S-matrix    5 =    1.00000   0.00000 for L=   16, J=   17.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   16, J =   17.0 channel.
  Final S-matrices (   16.5+) at  0 after  1 accurate to   0.0013 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      16.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.02  0   0 F  0
+      16.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    16.5+/16 @ 5 =   1.100#, Out:   0.000#   0.002#   0.024#   0.005#   0.022#   0.012#   0.000f
 
    S-matrix    6 =    1.00000  -0.00000 for L=   18, J=   17.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =   -0.000   0.000 deg. for the L =   18, J =   17.0 channel.
  Final S-matrices (   16.5+) at  0 after  1 accurate to   0.0006 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      16.5  1.00000000 -0.00000000i: elastic S-matrix  @@      0.02  0   0 F  0
+      16.5  1.00000000 -0.00000000i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    16.5+/18 @ 6 =   0.051#, Out:   0.000#   0.000#   0.000#   0.006#   0.000#   0.000#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   18, J=   18.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
@@ -2626,7 +2680,7 @@
    S-matrix    1 =    1.00000   0.00001 for L=   13, J=   14.0 channel on core I =   2.5 from L=   13,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   13, J =   14.0 channel.
  Final S-matrices (   16.5-) at  0 after  1 accurate to   0.0041 % of J=   20.0 unitarity:   1.00000 +i* 0.00001,
-      16.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.14  0   0 F  0
+      16.5  0.99999939  0.00000627i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    16.5-/13 @ 1 =   0.110/, Out:   0.000#   0.001#   0.005#   0.232#   0.000#   0.001#   0.000f
 
    S-matrix    2 =    1.00000  -0.00000 for L=   15, J=   14.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
@@ -2690,7 +2744,7 @@
    S-matrix    2 =    1.00000  -0.00000 for L=   16, J=   15.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =   -0.000   0.000 deg. for the L =   16, J =   15.0 channel.
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0005 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      17.5  0.99999999 -0.00000016i: elastic S-matrix  @@      0.02  0   0 F  0
+      17.5  0.99999999 -0.00000016i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5+/16 @ 2 =   1.165#, Out:   0.000#   0.000#   0.004#   0.004#   0.001#   0.002#   0.000f
 
    S-matrix    3 =    1.00000   0.00000 for L=   16, J=   16.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
@@ -2698,13 +2752,13 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.2 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0020 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.00  0   0 F  0
+      17.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    17.5+/16 @ 3 =   1.165#, Out:   0.000#   0.000#   0.005#   0.058#   0.001#   0.004#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   16, J=   17.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   16, J =   17.0 channel.
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0008 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.02  0   0 F  0
+      17.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5+/16 @ 4 =   1.165#, Out:   0.000#   0.000#   0.004#   0.006#   0.000#   0.017#   0.000f
 
    S-matrix    5 =    1.00000  -0.00000 for L=   18, J=   17.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
@@ -2716,25 +2770,25 @@
    S-matrix    6 =    1.00000   0.00000 for L=   18, J=   18.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   18, J =   18.0 channel.
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0005 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
+      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    17.5+/18 @ 6 =   0.054#, Out:   0.000#   0.000#   0.001#   0.004#   0.001#   0.001#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   18, J=   19.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   18, J =   19.0 channel.
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0004 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000003i: elastic S-matrix  @@      0.02  0   0 F  0
+      17.5  1.00000000  0.00000003i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5+/18 @ 7 =   0.054#, Out:   0.000#   0.000#   0.002#   0.001#   0.003#   0.001#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   20, J=   19.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   20, J =   19.0 channel.
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
+      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    17.5+/20 @ 8 =   0.002#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.001#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   20, J=   20.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   20, J =   20.0 channel.
  Final S-matrices (   17.5+) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5+/20 @ 9 =   0.002#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
 
@@ -2742,7 +2796,7 @@
    S-matrix    1 =    1.00000   0.00000 for L=   15, J=   15.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   15, J =   15.0 channel.
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0009 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.33  0   0 F  0
+      17.5  0.99999997  0.00000005i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec    17.5-/15 @ 1 =   5.416#, Out:   0.000#   0.001#   0.009#   0.018#   0.001#   0.005#   0.000f
 
    S-matrix    2 =    1.00000   0.00000 for L=   15, J=   16.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
@@ -2750,25 +2804,25 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.6 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0014 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.00  0   0 F  0
+      17.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    17.5-/15 @ 2 =   5.416#, Out:   0.000#   0.000#   0.001#   0.019#   0.000#   0.024#   0.000f
 
    S-matrix    3 =    1.00000  -0.00000 for L=   17, J=   16.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =   -0.000   0.000 deg. for the L =   17, J =   16.0 channel.
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0013 % of J=   20.0 unitarity:   1.00000 +i*-0.00000,
-      17.5  1.00000000 -0.00000004i: elastic S-matrix  @@      0.05  0   0 F  0
+      17.5  1.00000000 -0.00000004i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5-/17 @ 3 =   0.250#, Out:   0.000#   0.000#   0.002#   0.025#   0.001#   0.000#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   17, J=   17.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   17, J =   17.0 channel.
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0011 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.03  0   0 F  0
+      17.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    17.5-/17 @ 4 =   0.250#, Out:   0.000#   0.000#   0.002#   0.018#   0.001#   0.002#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   17, J=   18.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   17, J =   18.0 channel.
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0007 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.02  0   0 F  0
+      17.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5-/17 @ 5 =   0.250#, Out:   0.000#   0.000#   0.006#   0.002#   0.006#   0.004#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   19, J=   18.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -2780,7 +2834,7 @@
    S-matrix    7 =    1.00000   0.00000 for L=   19, J=   19.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   19, J =   19.0 channel.
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5-/19 @ 7 =   0.011#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   19, J=   20.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -2792,7 +2846,7 @@
    S-matrix    9 =    1.00000   0.00000 for L=   21, J=   20.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   21, J =   20.0 channel.
  Final S-matrices (   17.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      17.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    17.5-/21 @ 9 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
 
@@ -2800,13 +2854,13 @@
    S-matrix    1 =    1.00000   0.00000 for L=   16, J=   16.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   16, J =   16.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0005 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.39  0   0 F  0
+      18.5  0.99999999  0.00000002i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    18.5+/16 @ 1 =   1.229#, Out:   0.000#   0.000#   0.002#   0.005#   0.000#   0.001#   0.000f
 
    S-matrix    2 =    1.00000   0.00000 for L=   16, J=   17.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.000   0.000 deg. for the L =   16, J =   17.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0012 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.02  0   0 F  0
+      18.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5+/16 @ 2 =   1.229#, Out:   0.000#   0.000#   0.000#   0.006#   0.000#   0.024#   0.000f
 
    S-matrix    3 =    1.00000  -0.00000 for L=   18, J=   17.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
@@ -2818,37 +2872,37 @@
    S-matrix    4 =    1.00000   0.00000 for L=   18, J=   18.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   4 =    0.000   0.000 deg. for the L =   18, J =   18.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0006 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    18.5+/18 @ 4 =   0.057#, Out:   0.000#   0.000#   0.000#   0.005#   0.000#   0.001#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   18, J=   19.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   18, J =   19.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0003 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000003i: elastic S-matrix  @@      0.03  0   0 F  0
+      18.5  1.00000000  0.00000003i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5+/18 @ 5 =   0.057#, Out:   0.000#   0.000#   0.002#   0.001#   0.002#   0.001#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   20, J=   19.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   20, J =   19.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
  Reaction Xsec    18.5+/20 @ 6 =   0.003#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.001#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   20, J=   20.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   20, J =   20.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5+/20 @ 7 =   0.003#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   20, J=   21.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   20, J =   21.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5+/20 @ 8 =   0.003#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   22, J=   21.0 channel on core I =   2.5 from L=   22,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   22, J =   21.0 channel.
  Final S-matrices (   18.5+) at  0 after  1 accurate to   0.0000 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5+/22 @ 9 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
 
@@ -2856,7 +2910,7 @@
    S-matrix    1 =    1.00000   0.00000 for L=   15, J=   16.0 channel on core I =   2.5 from L=   15,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   15, J =   16.0 channel.
  Final S-matrices (   18.5-) at  0 after  1 accurate to   0.0011 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.39  0   0 F  0
+      18.5  0.99999997  0.00000063i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec    18.5-/15 @ 1 =   5.717#, Out:   0.000#   0.000#   0.000#   0.017#   0.000#   0.007#   0.000f
 
    S-matrix    2 =    1.00000  -0.00000 for L=   17, J=   16.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
@@ -2882,13 +2936,13 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.3 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   18.5-) at  0 after  1 accurate to   0.0004 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000000i: elastic S-matrix  @@      0.05  0   0 F  0
+      18.5  1.00000000  0.00000000i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    18.5-/19 @ 5 =   0.012#, Out:   0.000#   0.000#   0.000#   0.002#   0.000#   0.000#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   19, J=   19.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   19, J =   19.0 channel.
  Final S-matrices (   18.5-) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5-/19 @ 6 =   0.012#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   19, J=   20.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -2902,13 +2956,13 @@
    S-matrix    8 =    1.00000   0.00000 for L=   21, J=   20.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   21, J =   20.0 channel.
  Final S-matrices (   18.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5-/21 @ 8 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#  -0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   21, J=   21.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   21, J =   21.0 channel.
  Final S-matrices (   18.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      18.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    18.5-/21 @ 9 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
 
@@ -2916,7 +2970,7 @@
    S-matrix    1 =    1.00000   0.00000 for L=   16, J=   17.0 channel on core I =   2.5 from L=   16,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   16, J =   17.0 channel.
  Final S-matrices (   19.5+) at  0 after  1 accurate to   0.0007 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.39  0   0 F  0
+      19.5  0.99999999  0.00000021i: elastic S-matrix  @@      0.12  0   0 F  0
  Reaction Xsec    19.5+/16 @ 1 =   1.294#, Out:   0.000#   0.000#   0.000#   0.005#   0.000#   0.004#   0.000f
 
    S-matrix    2 =    1.00000  -0.00000 for L=   18, J=   17.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
@@ -2928,7 +2982,7 @@
    S-matrix    3 =    1.00000   0.00000 for L=   18, J=   18.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   18, J =   18.0 channel.
  Final S-matrices (   19.5+) at  0 after  1 accurate to   0.0005 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5+/18 @ 3 =   0.060#, Out:   0.000#   0.000#   0.000#   0.005#   0.000#   0.000#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   18, J=   19.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
@@ -2940,25 +2994,25 @@
    S-matrix    5 =    1.00000   0.00000 for L=   20, J=   19.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   20, J =   19.0 channel.
  Final S-matrices (   19.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    19.5+/20 @ 5 =   0.003#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.001#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   20, J=   20.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   20, J =   20.0 channel.
  Final S-matrices (   19.5+) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5+/20 @ 6 =   0.003#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   20, J=   21.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   20, J =   21.0 channel.
  Final S-matrices (   19.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5+/20 @ 7 =   0.003#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.001#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   22, J=   21.0 channel on core I =   2.5 from L=   22,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   22, J =   21.0 channel.
  Final S-matrices (   19.5+) at  0 after  1 accurate to   0.0000 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5+/22 @ 8 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   22, J=   22.0 channel on core I =   2.5 from L=   22,  Acc. loss =  0.0 D.
@@ -2972,19 +3026,19 @@
    S-matrix    1 =    1.00000   0.00000 for L=   17, J=   17.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   17, J =   17.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0004 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.39  0   0 F  0
+      19.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.11  0   0 F  0
  Reaction Xsec    19.5-/17 @ 1 =   0.278#, Out:   0.000#   0.000#   0.001#   0.002#   0.000#   0.001#   0.000f
 
    S-matrix    2 =    1.00000   0.00000 for L=   17, J=   18.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.000   0.000 deg. for the L =   17, J =   18.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0034 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.02  0   0 F  0
+      19.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5-/17 @ 2 =   0.278#, Out:   0.000#   0.000#   0.000#   0.003#   0.000#   0.130#   0.000f
 
    S-matrix    3 =    1.00000   0.00000 for L=   19, J=   18.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   19, J =   18.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0003 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000000i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000000i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    19.5-/19 @ 3 =   0.013#, Out:   0.000#   0.000#   0.000#   0.002#   0.000#   0.000#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   19, J=   19.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -2992,7 +3046,7 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.2 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0003 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5-/19 @ 4 =   0.013#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   19, J=   20.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -3004,25 +3058,25 @@
    S-matrix    6 =    1.00000   0.00000 for L=   21, J=   20.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   21, J =   20.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    19.5-/21 @ 6 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#  -0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   21, J=   21.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   7 =    0.000   0.000 deg. for the L =   21, J =   21.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5-/21 @ 7 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   21, J=   22.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   21, J =   22.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5-/21 @ 8 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   23, J=   22.0 channel on core I =   2.5 from L=   23,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   23, J =   22.0 channel.
  Final S-matrices (   19.5-) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      19.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    19.5-/23 @ 9 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#  -0.000f
 
 
@@ -3030,19 +3084,19 @@
    S-matrix    1 =    1.00000   0.00000 for L=   18, J=   18.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   18, J =   18.0 channel.
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.36  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.14  0   0 F  0
  Reaction Xsec    20.5+/18 @ 1 =   0.063#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#   0.000f
 
    S-matrix    2 =    1.00000   0.00000 for L=   18, J=   19.0 channel on core I =   2.5 from L=   18,  Acc. loss =  0.0 D.
  Elastic phase shift   2 =    0.000   0.000 deg. for the L =   18, J =   19.0 channel.
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0011 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000003i: elastic S-matrix  @@      0.02  0   0 F  0
+      20.5  1.00000000  0.00000003i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5+/18 @ 2 =   0.063#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.014#   0.000f
 
    S-matrix    3 =    1.00000   0.00000 for L=   20, J=   19.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   20, J =   19.0 channel.
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5+/20 @ 3 =   0.003#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   20, J=   20.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
@@ -3050,7 +3104,7 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.9 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    20.5+/20 @ 4 =   0.003#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   20, J=   21.0 channel on core I =   2.5 from L=   20,  Acc. loss =  0.0 D.
@@ -3058,13 +3112,13 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.4 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0003 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5+/20 @ 5 =   0.003#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.001#   0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   22, J=   21.0 channel on core I =   2.5 from L=   22,  Acc. loss =  0.0 D.
  Elastic phase shift   6 =    0.000   0.000 deg. for the L =   22, J =   21.0 channel.
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0000 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    20.5+/22 @ 6 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   22, J=   22.0 channel on core I =   2.5 from L=   22,  Acc. loss =  0.0 D.
@@ -3072,13 +3126,13 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.3 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0000 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5+/22 @ 7 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    8 =    1.00000   0.00000 for L=   22, J=   23.0 channel on core I =   2.5 from L=   22,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   22, J =   23.0 channel.
  Final S-matrices (   20.5+) at  0 after  1 accurate to   0.0000 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5+/22 @ 8 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   24, J=   23.0 channel on core I =   2.5 from L=   24,  Acc. loss =  0.0 D.
@@ -3092,7 +3146,7 @@
    S-matrix    1 =    1.00000   0.00000 for L=   17, J=   18.0 channel on core I =   2.5 from L=   17,  Acc. loss =  0.0 D.
  Elastic phase shift   1 =    0.000   0.000 deg. for the L =   17, J =   18.0 channel.
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0007 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.38  0   0 F  0
+      20.5  1.00000000  0.00000008i: elastic S-matrix  @@      0.11  0   0 F  0
  Reaction Xsec    20.5-/17 @ 1 =   0.292#, Out:   0.000#   0.000#   0.000#   0.003#   0.000#   0.006#   0.000f
 
    S-matrix    2 =    1.00000   0.00000 for L=   19, J=   18.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -3104,7 +3158,7 @@
    S-matrix    3 =    1.00000   0.00000 for L=   19, J=   19.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
  Elastic phase shift   3 =    0.000   0.000 deg. for the L =   19, J =   19.0 channel.
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0003 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5-/19 @ 3 =   0.013#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#   0.000f
 
    S-matrix    4 =    1.00000   0.00000 for L=   19, J=   20.0 channel on core I =   2.5 from L=   19,  Acc. loss =  0.0 D.
@@ -3112,13 +3166,13 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.2 DIGITS, SO EXPECT ERRORS OF   0.0001 % OF UNITARITY
 
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0009 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.02  0   0 F  0
+      20.5  1.00000000  0.00000002i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5-/19 @ 4 =   0.013#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.009#   0.000f
 
    S-matrix    5 =    1.00000   0.00000 for L=   21, J=   20.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
  Elastic phase shift   5 =    0.000   0.000 deg. for the L =   21, J =   20.0 channel.
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
  Reaction Xsec    20.5-/21 @ 5 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#  -0.000f
 
    S-matrix    6 =    1.00000   0.00000 for L=   21, J=   21.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
@@ -3126,7 +3180,7 @@
 0****** WARNING : ACCURACY LOSS IN ERWIN = 14.3 DIGITS, SO EXPECT ERRORS OF   0.0000 % OF UNITARITY
 
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5-/21 @ 6 =   0.001#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#   0.000f
 
    S-matrix    7 =    1.00000   0.00000 for L=   21, J=   22.0 channel on core I =   2.5 from L=   21,  Acc. loss =  0.0 D.
@@ -3138,16 +3192,16 @@
    S-matrix    8 =    1.00000   0.00000 for L=   23, J=   22.0 channel on core I =   2.5 from L=   23,  Acc. loss =  0.0 D.
  Elastic phase shift   8 =    0.000   0.000 deg. for the L =   23, J =   22.0 channel.
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0002 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.03  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5-/23 @ 8 =   0.000#, Out:   0.000#   0.000#   0.000#   0.001#   0.000#   0.000#  -0.000f
 
    S-matrix    9 =    1.00000   0.00000 for L=   23, J=   23.0 channel on core I =   2.5 from L=   23,  Acc. loss =  0.0 D.
  Elastic phase shift   9 =    0.000   0.000 deg. for the L =   23, J =   23.0 channel.
  Final S-matrices (   20.5-) at  0 after  1 accurate to   0.0001 % of J=   20.0 unitarity:   1.00000 +i* 0.00000,
-      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.02  0   0 F  0
+      20.5  1.00000000  0.00000001i: elastic S-matrix  @@      0.00  0   0 F  0
  Reaction Xsec    20.5-/23 @ 9 =   0.000#, Out:   0.000#   0.000#   0.000#   0.000#   0.000#   0.000#  -0.000f
 
- Finished all CC sets @    11.7343750    
+ Finished all CC sets @    8.26562500    
 0CUMULATIVE REACTION cross section                 = 1172.80696  <L> =     4.23  <L**2> =     21.4
 0CUMULATIVE outgoing cross sections in partition 1 :    0.00000
 0CUMULATIVE outgoing cross sections in partition 2 :    3.48262    3.32724    5.87730    2.60610   10.84854
@@ -7878,7 +7932,7 @@
    180.00 deg.: X-S =     0.558409 mb/sr,
 
                                            Integrated   10.8483 mb, over [   0.000, 180.000] at    98.9000 MeV 
- Finished all xsecs @    12.1718750    
+ Finished all xsecs @    8.34375000    
 
 
 
@@ -8211,4 +8265,4 @@
  1: Recommended RNL: non-local width >   6.20 cf:   5.00 fm: NOT OK  
     Recommended CENTRE: centration   ~  -1.30 cf:   0.00 fm
 
- Total CPU  0 time =      12.17 seconds
+ Total CPU  0 time =       8.36 seconds

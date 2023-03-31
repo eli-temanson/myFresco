@@ -19,6 +19,7 @@ def run_sfresco(filename):
 if __name__ == "__main__":
 
 	filename='2-25Al_dn-error'
+	# filename='1-25Al_dn-eli'
 	run_fresco(filename)
 	# run_sfresco(filename)
 	os.system("python ../scripts/parse_dfcs.py 5")
